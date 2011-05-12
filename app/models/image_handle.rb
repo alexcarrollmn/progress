@@ -1,18 +1,26 @@
 class ImageHandle
-  def initialize(matching)
+  def initialize(matching, filetype)
     return self unless File.directory?(matching)
-    @files = Dir.glob("#{matching}*.jpeg")
+    @files = Dir.glob("#{matching}*.#{filetype}")
   end
   def listall
     @files.each do |file|
-      puts file
+      file
     end
   end
   def most_recent
-    puts @files.last
+    @files.last
   end
   def recent_offset(offset = 0)
     num = @files.length < offset ? 0 : @files.length - offset - 1
-    puts @files[num]
+    @files[num]
+  end
+  def multi_offset(amount, offset = 0)
+    for part in (1..amount)
+      if(part < @files.length)
+        recent_offset(offset)
+      end
+      offset += offset
+    end
   end
 end

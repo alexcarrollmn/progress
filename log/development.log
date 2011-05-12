@@ -567,3 +567,395 @@ The error occurred while evaluating nil.last):
 Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
 Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (5.0ms)
 Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.7ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 14:26:34 -0500 2011
+
+ArgumentError (wrong number of arguments (2 for 1)):
+  app/controllers/progress_controller.rb:2:in `initialize'
+  app/controllers/progress_controller.rb:2:in `new'
+  app/controllers/progress_controller.rb:2
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.1ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (8.7ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 14:27:02 -0500 2011
+  Processing by ProgressController#index as HTML
+Completed   in 1ms
+
+NoMethodError (undefined method `most_recent' for nil:NilClass):
+  app/controllers/progress_controller.rb:5:in `index'
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.1ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (5.1ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.6ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 14:27:37 -0500 2011
+  Processing by ProgressController#index as HTML
+Completed   in 4ms
+
+NoMethodError (You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.last):
+  app/models/image_handle.rb:12:in `most_recent'
+  app/controllers/progress_controller.rb:5:in `index'
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (5.6ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (13.1ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 14:27:43 -0500 2011
+  Processing by ProgressController#index as HTML
+Completed   in 4ms
+
+NoMethodError (You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.last):
+  app/models/image_handle.rb:12:in `most_recent'
+  app/controllers/progress_controller.rb:5:in `index'
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (5.3ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 14:27:44 -0500 2011
+  Processing by ProgressController#index as HTML
+Completed   in 4ms
+
+NoMethodError (You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.last):
+  app/models/image_handle.rb:12:in `most_recent'
+  app/controllers/progress_controller.rb:5:in `index'
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (5.2ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.3ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 14:28:32 -0500 2011
+  Processing by ProgressController#index as HTML
+Completed   in 4ms
+
+NoMethodError (You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.last):
+  app/models/image_handle.rb:12:in `most_recent'
+  app/controllers/progress_controller.rb:5:in `index'
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (5.8ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.8ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 14:28:48 -0500 2011
+  Processing by ProgressController#index as HTML
+Completed   in 3ms
+
+NoMethodError (You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.last):
+  app/models/image_handle.rb:13:in `most_recent'
+  app/controllers/progress_controller.rb:5:in `index'
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (65.5ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (72.3ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 14:29:25 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 12ms (Views: 8.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 14:30:15 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 14ms (Views: 9.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 14:30:32 -0500 2011
+  Processing by ProgressController#index as HTML
+Completed   in 5ms
+
+NoMethodError (You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.last):
+  app/models/image_handle.rb:12:in `most_recent'
+  app/controllers/progress_controller.rb:5:in `index'
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (5.3ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 14:30:53 -0500 2011
+  Processing by ProgressController#index as HTML
+Completed   in 3ms
+
+NoMethodError (undefined method `new' for ImageHandle:Module):
+  app/controllers/progress_controller.rb:4:in `index'
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (5.1ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.9ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 14:30:59 -0500 2011
+  Processing by ProgressController#index as HTML
+Completed   in 4ms
+
+NoMethodError (You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.last):
+  app/models/image_handle.rb:12:in `most_recent'
+  app/controllers/progress_controller.rb:5:in `index'
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (5.3ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.2ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 14:31:34 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 12ms (Views: 8.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 14:32:01 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 13ms (Views: 9.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 14:32:02 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 14ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 14:32:29 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (31.8ms)
+Completed   in 46ms
+
+ActionView::Template::Error (You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.each):
+    1: <div id="index">
+    2:   <h1>Progress Home</h1>
+    3:   <%= @foo.each do |f| %>
+    4:     hi
+    5:   <% end %>
+    6:   <ul>
+  app/views/progress/index.html.erb:3:in `_app_views_progress_index_html_erb___36709094_20587310_0'
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (5.2ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (14.3ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 14:32:30 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (0.5ms)
+Completed   in 10ms
+
+ActionView::Template::Error (You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.each):
+    1: <div id="index">
+    2:   <h1>Progress Home</h1>
+    3:   <%= @foo.each do |f| %>
+    4:     hi
+    5:   <% end %>
+    6:   <ul>
+  app/views/progress/index.html.erb:3:in `_app_views_progress_index_html_erb___36709094_19727070_0'
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (6.2ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (70.9ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 14:33:15 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (0.6ms)
+Completed   in 13ms
+
+ActionView::Template::Error (You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.each):
+    1: <div id="index">
+    2:   <h1>Progress Home</h1>
+    3:   <%= @foo.each do |f| %>
+    4:     hi
+    5:   <% end %>
+    6:   <ul>
+  app/views/progress/index.html.erb:3:in `_app_views_progress_index_html_erb___36709094_21040550_0'
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.4ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (5.4ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (13.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 14:33:16 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (0.6ms)
+Completed   in 12ms
+
+ActionView::Template::Error (You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.each):
+    1: <div id="index">
+    2:   <h1>Progress Home</h1>
+    3:   <%= @foo.each do |f| %>
+    4:     hi
+    5:   <% end %>
+    6:   <ul>
+  app/views/progress/index.html.erb:3:in `_app_views_progress_index_html_erb___36709094_20424100_0'
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.4ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (5.2ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (13.1ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 14:33:33 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 12ms (Views: 7.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 14:35:52 -0500 2011
+  Processing by ProgressController#index as HTML
+Completed   in 4ms
+
+NoMethodError (undefined method `exists?' for Dir:Class):
+  app/models/image_handle.rb:3:in `initialize'
+  app/controllers/progress_controller.rb:4:in `new'
+  app/controllers/progress_controller.rb:4:in `index'
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (5.4ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.7ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 14:37:14 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 13ms (Views: 9.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 14:38:38 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 12ms (Views: 8.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 14:39:01 -0500 2011
+  Processing by ProgressController#index as HTML
+Completed   in 4ms
+
+NameError (undefined local variable or method `logger' for #<ImageHandle:0x256b4fc>):
+  app/models/image_handle.rb:6:in `initialize'
+  app/controllers/progress_controller.rb:4:in `new'
+  app/controllers/progress_controller.rb:4:in `index'
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (64.4ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (71.2ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 14:39:16 -0500 2011
+  Processing by ProgressController#index as HTML
+Completed   in 4ms
+
+NoMethodError (undefined method `type?' for File:Class):
+  app/models/image_handle.rb:6:in `initialize'
+  app/controllers/progress_controller.rb:4:in `new'
+  app/controllers/progress_controller.rb:4:in `index'
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (5.5ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.8ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 14:40:03 -0500 2011
+  Processing by ProgressController#index as HTML
+Completed   in 4ms
+
+Errno::ENOENT (No such file or directory - /public/images/capture/):
+  app/models/image_handle.rb:6:in `ftype'
+  app/models/image_handle.rb:6:in `initialize'
+  app/controllers/progress_controller.rb:4:in `new'
+  app/controllers/progress_controller.rb:4:in `index'
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (5.3ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.9ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 14:40:22 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 14ms (Views: 10.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 14:41:30 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 107ms (Views: 101.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 14:41:58 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 13ms (Views: 9.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 14:44:51 -0500 2011
+  Processing by ProgressController#index as HTML
+Completed   in 5ms
+
+SyntaxError (/Users/Jesus/projects/progress/app/models/image_handle.rb:20: syntax error, unexpected tIDENTIFIER, expecting kEND
+      part < @files.length? recent_offset(offset)
+                                         ^):
+  app/controllers/progress_controller.rb:4:in `index'
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (6.9ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (13.7ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 14:45:40 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 12ms (Views: 8.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 14:46:24 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 13ms (Views: 8.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 14:46:33 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 14ms (Views: 9.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 14:46:34 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 12ms (Views: 7.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 14:54:18 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 13ms (Views: 8.2ms | ActiveRecord: 0.0ms)
