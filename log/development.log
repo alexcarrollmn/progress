@@ -1138,3 +1138,357 @@ Started GET "/" for 127.0.0.1 at Thu May 12 15:19:39 -0500 2011
   Processing by ProgressController#index as HTML
 Rendered progress/index.html.erb within layouts/application (2.8ms)
 Completed 200 OK in 17ms (Views: 10.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:22:08 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 15ms (Views: 9.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:25:51 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 19ms (Views: 9.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:30:43 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 13ms (Views: 8.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:31:19 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 16ms (Views: 11.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:31:45 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 15ms (Views: 10.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:31:46 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 14ms (Views: 9.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:32:08 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 70ms (Views: 65.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:33:10 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 15ms (Views: 9.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:33:15 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 15ms (Views: 9.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:33:37 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (0.7ms)
+Completed   in 72ms
+
+ActionView::Template::Error (You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.each):
+    1: <div id="index">
+    2:   <h1>Progress Home</h1>
+    3:   <%= @foo.each do |f| %>
+    4:   <% end %>
+    5:   <ul>
+    6:     <li><a href="/progress/short">Short Time-Lapse</a></li>
+  app/views/progress/index.html.erb:3:in `_app_views_progress_index_html_erb___36709094_21216280_0'
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (6.4ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (14.9ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:34:39 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 13ms (Views: 8.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:36:06 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 15ms (Views: 10.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:36:21 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 15ms (Views: 10.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:37:13 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 23ms (Views: 15.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:37:14 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (7.6ms)
+Completed 200 OK in 29ms (Views: 22.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:37:31 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 21ms (Views: 13.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:37:37 -0500 2011
+  Processing by ProgressController#index as HTML
+Completed   in 8ms
+
+NameError (undefined local variable or method `total_list' for #<ImageHandle:0x2801d9c>):
+  app/models/image_handle.rb:10:in `listall'
+  app/models/image_handle.rb:9:in `each'
+  app/models/image_handle.rb:9:in `listall'
+  app/controllers/progress_controller.rb:6:in `index'
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.erb (4.5ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (6.5ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (19.7ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:37:46 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 20ms (Views: 14.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:38:02 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 21ms (Views: 15.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:38:49 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 22ms (Views: 11.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:38:51 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 20ms (Views: 12.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:39:57 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 19ms (Views: 11.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:42:27 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 14ms (Views: 9.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:42:29 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 20ms (Views: 10.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:42:40 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 19ms (Views: 12.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:43:53 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 14ms (Views: 8.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:43:54 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (4.7ms)
+Completed 200 OK in 20ms (Views: 12.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:44:59 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 14ms (Views: 8.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:45:29 -0500 2011
+  Processing by ProgressController#index as HTML
+Completed   in 8ms
+
+NameError (undefined local variable or method `image_list' for #<ImageHandle:0x28053e8>):
+  app/models/image_handle.rb:27:in `multi_offset'
+  app/models/image_handle.rb:25:in `each'
+  app/models/image_handle.rb:25:in `multi_offset'
+  app/controllers/progress_controller.rb:5:in `index'
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.4ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (12.6ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (24.2ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:45:33 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 16ms (Views: 10.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:46:19 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (0.9ms)
+Completed   in 18ms
+
+ActionView::Template::Error (You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.each):
+    1: <div id="index">
+    2:   <h1>Progress Home</h1>
+    3:   <%= @foo.each do |f| %>
+    4: 
+    5:   <% end %>
+    6:   <%= @bar.each do |f| %>
+  app/views/progress/index.html.erb:3:in `_app_views_progress_index_html_erb___36709094_19535270_0'
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (70.7ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (78.3ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:46:29 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 19ms (Views: 10.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:46:38 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 21ms (Views: 13.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:46:39 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 19ms (Views: 11.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:46:48 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 16ms (Views: 9.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:47:28 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (4.3ms)
+Completed 200 OK in 24ms (Views: 17.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:47:38 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 22ms (Views: 13.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:47:39 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 21ms (Views: 14.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:47:44 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 22ms (Views: 13.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:48:30 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (5.1ms)
+Completed 200 OK in 20ms (Views: 13.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:51:38 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 25ms (Views: 18.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:51:39 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 19ms (Views: 12.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:51:56 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 14ms (Views: 9.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:53:28 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 17ms (Views: 9.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:53:38 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (4.4ms)
+Completed 200 OK in 20ms (Views: 15.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:53:40 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 19ms (Views: 11.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:53:57 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 19ms (Views: 12.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:57:29 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 17ms (Views: 11.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:57:40 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 19ms (Views: 12.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:57:45 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 21ms (Views: 11.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Thu May 12 15:57:54 -0500 2011
+  Processing by ProgressController#index as HTML
+Rendered progress/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 19ms (Views: 12.4ms | ActiveRecord: 0.0ms)

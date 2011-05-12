@@ -1,7 +1,14 @@
 <div id="index">
   <h1>Progress Home</h1>
   <%= @foo.each do |f| %>
-    hi
+    <p><%= f %></p>
+  <% end %>
+  <br>
+  <br>
+  <br>
+  <br>
+  <%= @bar.each do |f| %>
+    <p><%= f %></p>
   <% end %>
   <ul>
     <li><a href="/progress/short">Short Time-Lapse</a></li>
