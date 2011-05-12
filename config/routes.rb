@@ -1,4 +1,16 @@
 Progress::Application.routes.draw do
+  get "progress/index"
+
+  get "progress/short"
+
+  get "progress/graph"
+
+  get "progress/day"
+
+  root :to => "progress#index"
+
+  match "/progress" => "progress#index"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

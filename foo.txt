@@ -1,0 +1,3694 @@
+    1  mate ~/.zshrc
+    2  ls
+    3  vim ~/.oh-my-zsh/custom/oldrc.zsh
+    4  ls
+    5  vim ~/.oh-my-zsh/custom/oldrc.zsh
+    6  source ~/.zsh
+    7  source ~/.zshrc
+    8  ls
+    9  cd Desktop
+   10  cd ~/Desktop/wfanfc/
+   11  cd ~/Desktop
+   12  cd /Applications
+   13  ls
+   14  cd learning
+   15  ls -a
+   16  ls
+   17  source ~/.zshrc
+   18  ls
+   19  cd ~/.oh-my-zsh
+   20  ls
+   21  cd custom
+   22  ls
+   23  vim dynamichighlighting.zsh
+   24  ls
+   25  source dynamic
+   26  source dynamichighlighting.zsh
+   27  ls
+   28  mv dynamichighlighting.zsh dynamic-highlighting.zsh
+   29  ls
+   30  mv dynamichighlighting.zsh dynamic-hlighting.zsh
+   31  mv
+   32  mv ~/.oh-my-zsh/custom/oldrc.zsh
+   33  vim ~/.oh-my-zsh/custom/oldrc.zsh
+   34  erl
+   35  ls
+   36  cd ~/learning
+   37  ls
+   38  mkdir erlang
+   39  ls
+   40  cd erlang
+   41  touch hworld.erl
+   42  mvim hworld.erl
+   43  open .
+   44  mvim .
+   45  erl hello.erl
+   46  erl
+   47  w
+   48  echo 
+   49  echo $PATH
+   50  ls
+   51  ls -a
+   52  _bzr branch lp:networkservices
+   53  python --v
+   54  python -v
+   55  python --version
+   56  sudo port selfupdate
+   57  sudo port install bzr
+   58  cd projects
+   59  mkdir karl
+   60  cd karl
+   61  _bzr branch lp:networkservices
+   62  bzr
+   63  bzr branch lp:networkservices
+   64  cd ~/projects
+   65  ls
+   66  cd good
+   67  git pull jake master
+   68  npm update
+   69  git pull jake master
+   70  cd ~/projects/good
+   71  mate .
+   72  rails server -p 2323
+   73  ls
+   74  gd
+   75  git pull jake master
+   76  rails server -p 2323
+   77  rails server
+   78  history
+   79  ls
+   80  sudo rm -rf server
+   81  gd
+   82  ls
+   83  cd ~
+   84  cd projects
+   85  ls
+   86  cd good
+   87  ls
+   88  ls -a
+   89  rails server
+   90  ls
+   91  sudo rm -rf server
+   92  ls
+   93  rails --v
+   94  rails -v
+   95  sudo gem update
+   96  sudo gem update rails
+   97  ruby -v
+   98  history
+   99  mate ~/.zshrc
+  100  vim ~/.oh-my-zsh/custom/oldrc.zsh
+  101  mate ~/.zshrc
+  102  mate ~/.oh-my-zsh/
+  103  rvm
+  104  ruby -v
+  105  curl ftp://ftp.ruby-lang.org/pub/ruby/ruby-1.9.1-p0.tar.bz2 -o ruby-1.9.1-p0.tar.bz2
+  106  tar xjf ruby-1.9.1-p0.tar.bz2
+  107  cd ~/ruby-1.9.1-p430
+  108  autoconf
+  109  ./configure --program-suffix=19 --enable-shared --with-readline-dir=/usr/local
+  110  make && sudo make install
+  111  ruby -v
+  112  ls
+  113  ./configure
+  114  make
+  115  sudo make install
+  116  cd ../
+  117  cd ruby-1.8.7-p330
+  118  ./configure
+  119  make
+  120  sudo make install
+  121  sudo make
+  122  ruby -v
+  123  git add *
+  124  cd ~/projects/good
+  125  git add *
+  126  git commit -a -m "broken jewelry to necklaces"
+  127  gp
+  128  ls -a
+  129  locate bashrc
+  130  mate .bashrc
+  131  git push jake master && cap deploy -s user=jakedahn
+  132  ls
+  133  git push jake master && cap deploy -s user=jakedahn
+  134  ruby -v
+  135  zsh --v
+  136  foo=baaaar; [[ $foo =~ ba*r ]] && echo "Your shell supports the =~ regex operator." || echo "Your shell does not support the =~ regex operator."
+  137  which ruby
+  138  ruby -v
+  139  rvm 1.9.1
+  140  rvim 1.9.1
+  141  cd ruby-1.9.2-p136
+  142  ./configure && make && sudo make install
+  143  ruby -v
+  144  ls
+  145  cd ~
+  146  cd ruby-1.8.7-p330
+  147  ./configure
+  148  mate config.h
+  149  make && sudo make install
+  150  ruby -v
+  151  make ruby
+  152  gem update rails
+  153  ls
+  154  mate ~/.oh-my-zsh
+  155  gem -v
+  156  sudo mkdir -p /usr/local/src
+  157  sudo chgrp admin /usr/local/src
+  158  sudo chmod -R 775 /usr/local/src
+  159  cd /usr/local/src
+  160  curl -O ftp://ftp.ruby-lang.org/pub/ruby/1.8/ruby-1.8.7-p72.tar.gz
+  161  tar xzvf ruby-1.8.7-p72.tar.gz
+  162  cd ruby-1.8.7-p72
+  163  ./configure --enable-shared --enable-pthread CFLAGS=-D_XOPEN_SOURCE=1
+  164  which ruby
+  165  make
+  166  sudo make install
+  167  cd ..
+  168  which ruby
+  169  cd /usr/bin/ruby
+  170  ls
+  171  cd /usr/bin
+  172  ls
+  173  mate ~/.oh-my-zsh
+  174  ruby_version
+  175  $ruby_version
+  176  cd ~/
+  177  ls
+  178  ls -a
+  179  rails --v
+  180  rails -v
+  181  ls
+  182  mate .
+  183  ruby -v
+  184  rails -v
+  185  ruby -v
+  186  ls
+  187  cd ruby-1.8.7-p330
+  188  sudo make install
+  189  ruby -v
+  190  mate ~/.oh-my-zsh
+  191  cd ruby-1.9.2-p136
+  192  ./configure
+  193  cd /usr/local/src
+  194  ls
+  195  cd ../
+  196  cd /usr/local/src
+  197  cd readline-5.1
+  198  locate readline
+  199  sudo port install ruby
+  200  ruby -v
+  201  killall Plex
+  202  ls
+  203  screen
+  204  ls
+  205  ruby --version
+  206  rails --version
+  207  screen -x
+  208  cd /opt/local/bin
+  209  ls
+  210  ./ruby --version
+  211  /opt/local/bin/ruby --version
+  212  vim ~/.zshrc
+  213  mate ~/.oh-my-zsh
+  214  mate ~/.bash_login
+  215  vim ~/.bash_login
+  216  mate ~/.zshrc
+  217  ruby -v
+  218  rails -v
+  219  rails --v
+  220  rails --version
+  221  exit
+  222  screen -x
+  223  ruby --version
+  224  rails --version
+  225  which gem
+  226  gem list
+  227  screen -x
+  228  rails --version
+  229  gem list
+  230  which irb
+  231  screen
+  232  screen -x
+  233  irb
+  234  which irb
+  235  vim ~/.zshrc
+  236  which irb
+  237  source ~/.zshrc
+  238  which irb
+  239  rails --version
+  240  cd /usr/local
+  241  ls
+  242  cd bin/i
+  243  cd bin/
+  244  ls
+  245  express
+  246  ls
+  247  which vim
+  248  ruby -v
+  249  source ~/.zshrc
+  250  ruby -v
+  251  rails -v
+  252  ls
+  253  cd ~/projects/good
+  254  ls
+  255  mate .
+  256  cd ~/projects/good
+  257  rails server
+  258  rails server -p 2323
+  259  git add *
+  260  git commit -a -m "product pictures"
+  261  gp
+  262  git push jake master && cap deploy -s user=jakedahn
+  263  which rails
+  264  which ruby
+  265  locate xorg.conf
+  266  ls
+  267  cd projects
+  268  ls
+  269  cd sayl
+  270  ls
+  271  cd ../
+  272  cd yousayl
+  273  mvim .
+  274  cd projects/yousayl
+  275  rails server -p 2323
+  276  mate .
+  277  ls -a
+  278  mate .vim
+  279  gem install toolbox
+  280  sudo gem install toolbox
+  281  git pull jake master
+  282  rails server -p 2323
+  283  mate .
+  284  git pull jake master
+  285  mate .
+  286  rails server -p 2323
+  287  git add *
+  288  git commit -a -m "slideshow images"
+  289  git pull jake master
+  290  gp
+  291  mate ~/.oh-my-zsh
+  292  git push jake master && cap deploy -s user=jakedahn
+  293  mate ~/.zshrc
+  294  git commit -a -m "disclaimer css."
+  295  git push jake master && cap deploy -s user=jakedahn
+  296  git commit -a -m "adding slideshow container."
+  297  git push jake master && cap deploy -s user=jakedahn
+  298  cd ~
+  299  cd\n
+  300  cd ~/projects
+  301  mkdir pointer
+  302  cd pointer
+  303  git init
+  304  touch README
+  305  git add *
+  306  git commit -a -m "Initialize project."
+  307  git remote add origin git@github.com:bradleyolson/Pointer.git
+  308  git push
+  309  git push origin master
+  310  ls
+  311  mvim .
+  312  cd learning
+  313  git clone https://github.com/johnheimkes/gfda.git
+  314  ls
+  315  cd gfda
+  316  mate .
+  317  git add *
+  318  git commit -a -m "basic routing."
+  319  git push
+  320  git add *
+  321  git commit -a -m "Added points db connection class."
+  322  cd Sites/
+  323  cd static-everyone/staticEveryone
+  324  ls
+  325  mvim .
+  326  /usr/bash
+  327  /usr/bin/hash
+  328  cat ~/Library/Application\ Support/Adium\ 2.0/Users/Default/Logs/AIM.alllateralus/johnheimkes/johnheimkes\ \(2011-01-07T18.44.35-0600\).chatlog/johnheimkes\ \(2011-01-07T18.44.35-0600\).xml
+  329  cd ~/projects
+  330  ls
+  331  cd pointer
+  332  ls
+  333  mvim .
+  334  git add *
+  335  git commit -a -m "Added several methods to the Db class. Rearranged several things. Added register, panel, login, htaccess."
+  336  git push
+  337  md5 -s "020625"
+  338  git commit -a -m "added md5 hashing on passwords."
+  339  git push
+  340  git add *
+  341  git commit -a -m "Added error handling."
+  342  git push
+  343  git commit -a -m "functionality for panel page."
+  344  git push
+  345  git add *
+  346  git commit -a -m "Login page."
+  347  git push
+  348  git add *
+  349  git commit -a -m "fixed email validation. Added panel content. Added basic nav."
+  350  git push
+  351  git add *
+  352  git commit -a -m "Added major styling. Added AJAX on point call, as well as points calls."
+  353  git push
+  354  git add *
+  355  git commit -a -m "Added the ability for users to add people. completed ajax calls. Added errors. Brought project to a working state."
+  356  git push
+  357  git commit -a -m "Small issue on Db_handle->check_reg\n"
+  358  git push
+  359  git commit -a -m "Added panel link for those who are logged in."
+  360  git push
+  361  git -co mysqli
+  362  git -checkout mysqli
+  363  git checkout mysqli
+  364  git co -b mysqli
+  365  ls
+  366  mvim .
+  367  git checkout master
+  368  mvim .
+  369  git checkout mysqli
+  370  ls
+  371  mvim .
+  372  git merge master
+  373  ls
+  374  git checkout master
+  375  mvim
+  376  git pull master
+  377  killall Finder
+  378  mvim .
+  379  git commit -a -m "converted all mysql calls to mysqli."
+  380  git push origin master
+  381  git push master
+  382  git push
+  383  git commit -a -m "updated readme"
+  384  git push
+  385  ls
+  386  cd learning
+  387  mkdir js
+  388  cd js
+  389  ls
+  390  mkdir text.js
+  391  sudo rm -rf text.js
+  392  mkdir test
+  393  cd test
+  394  touch test.js
+  395  touch index.html
+  396  cd ../
+  397  cd test
+  398  mvim .
+  399  ls
+  400  open index.html
+  401  git commit -a -m "fixed the 0 break error on adjust.php"
+  402  git push
+  403  mate ~/.zshrc
+  404  w
+  405  whois brad.ly
+  406  whois bradleyolson.com
+  407  whois bradley-olson.com
+  408  whois bradolson.com
+  409  whois brad.me
+  410  whois baoist.com
+  411  whois bao.com
+  412  mvim .
+  413  mysql -u lateralus -p -h mysql.lateral.us points_lateralus 
+  414  mvim .
+  415  whois brad.me
+  416  whois baoist.me
+  417  ls
+  418  mvim ~/Sites/murg/wp-content/themes/murgitroid
+  419  cd ~/Sites/murg/wp-content/themes/murgitroid 
+  420  ls
+  421  mvim .
+  422  md5 -s "020625"
+  423  ifconfig
+  424  cd /Applications/MAMP\ PRO\ 1.7.2/logs
+  425  ls
+  426  cd /Applications/MAMP\ PRO\ 1.7.2/
+  427  ls
+  428  cd ../
+  429  cd mamp
+  430  ls
+  431  cd logs
+  432  ls
+  433  mate .
+  434  tail -f apache_error_log
+  435  locate .htaccess
+  436  mate .htaccess
+  437  cd /sites
+  438  cd ~/sites
+  439  ls
+  440  cd murg
+  441  ls
+  442  mvim .
+  443  locate .htaccess
+  444  touch .htaccess
+  445  mate .htaccess
+  446  mate .
+  447  cd ~/projects/good/
+  448  git pull jake master
+  449  rails server -p 2323
+  450  cd projects/good
+  451  mate .
+  452  mate ~/.zshrc
+  453  mate ~/.oh-my-zsh
+  454  git commit -a -m "rates facebox"
+  455  git push jake master && cap deploy -s user=jakedahn
+  456  rails server -p 2323
+  457  git commit -a -m "changed /rates/compare url"
+  458  mate ~/.oh-my-zsh
+  459  git push jake master && cap deploy -s user=jakedahn
+  460  sudo killall Finder
+  461  ls
+  462  cd
+  463  cd school/illustration
+  464  ls
+  465  open
+  466  open .
+  467  w
+  468  cd Sites/murg
+  469  ls
+  470  open .
+  471  cd wp-co
+  472  cd wp-content
+  473  ls
+  474  cd themes/murgitroid
+  475  cd ../
+  476  mate murgitroid
+  477  cd school/illustration
+  478  open .
+  479  ls
+  480  sudo cp -r ~/Downloads/ZendFramework-1.11.2 /usr/local/ZendFrameworkCli
+  481  mate ~/.zshrc
+  482  mate ~/.oh-my-zsh
+  483  source ~/.oh-my-zsh
+  484  zf show version
+  485  zf --help
+  486  cd projects
+  487  ls
+  488  zf create project xbox_project
+  489  ls
+  490  cd xbox_project
+  491  ls
+  492  ls -a
+  493  git init
+  494  touch README
+  495  mate readme
+  496  git remote add origin git@github.com:bradleyolson/xbox_project.git
+  497  git add *
+  498  git commit -a -m "Initialized project."
+  499  git push origin master
+  500  mate .
+  501  cd Sites/murg/_backups
+  502  touch captcha.js
+  503  history
+  504  locate limp
+  505  cd /usr/local/limp
+  506  locate /limp
+  507  locate /bin
+  508  locate /limp
+  509  cd ~/Downloads/limp-0.3.4
+  510  ./install.sh
+  511  sudo ./install.sh
+  512  cd ~/Applications/
+  513  ks
+  514  ls
+  515  locate Applications
+  516  cd /Applications/MacVim.app
+  517  ls
+  518  cd contents
+  519  ls
+  520  cd Resources
+  521  ls
+  522  cd vim
+  523  ls
+  524  sudo mvim vimrc
+  525  export PERL_RL=gnu
+  526  perl funnel.pl $HOME/.lisp-pipe lisp 
+  527  cd ~/vilisp
+  528  export PERL_RL=gnu
+  529  perl funnel.pl $HOME/.lisp-pipe lisp 
+  530  vim test.lisp
+  531  mvim test.lisp
+  532  locate /vim/
+  533  cd /vim72
+  534  ls
+  535  cd ../
+  536  ls
+  537  locate vim72
+  538  cd vim
+  539  ls -a -r
+  540  cd ../
+  541  ls -r
+  542  ls -R
+  543  cd vim
+  544  ls -R
+  545  cd ./runtime
+  546  ls
+  547  cd plugin
+  548  ls
+  549  sudo cp ~/Downloads/multvals.vim .
+  550  locate /ruby
+  551  ls
+  552  cd ../
+  553  ;s
+  554  ls
+  555  locate vim/ruby
+  556  locate /vimfiles
+  557  locate /runtime
+  558  ls
+  559  sudo cp ~/Downloads/Slimv075/doc/slimv.txt ./doc/slimv.txt
+  560  sudo cp ~/Downloads/Slimv075/ftdetect/clojure.vim ./ftdetect/clojure.vim
+  561  sudo cp ~/Downloads/Slimv075/ftplugin/metering.lisp ./ftplugin/
+  562  cd ftdetect
+  563  ls
+  564  cd ../
+  565  sudo cp ~/Downloads/Slimv075/ftplugin/slimv.py ./ftplugin/
+  566  sudo cp ~/Downloads/Slimv075/ftplugin/slimv.vim ./ftplugin/
+  567  sudo cp ~/Downloads/Slimv075/ftplugin/slimv-clhs.vim ./ftplugin/
+  568  sudo cp ~/Downloads/Slimv075/ftplugin/slimv-cljapi.vim ./ftplugin/
+  569  sudo cp ~/Downloads/Slimv075/ftplugin/slimv-javadoc.vim ./ftplugin/
+  570  sudo cp ~/Downloads/Slimv075/ftplugin/clojure/slimv-clojure.vim ./ftplugin/clojure/
+  571  sudo cp ~/Downloads/Slimv075/ftplugin/lisp/slimv-lisp.vim ./ftplugin/lisp/
+  572  mkdir /ftplugin/lisp
+  573  cd /ftplugin
+  574  mkdir ./ftplugin/lisp
+  575  sudo cp ~/Downloads/Slimv075/ftplugin/lisp/slimv-lisp.vim ./ftplugin/lisp/
+  576  sudo cp ~/Downloads/Slimv075/indent/clojure.vim ./indent
+  577  sudo cp ~/Downloads/Slimv075/plugin/paredit.vim ./plugin
+  578  sudo cp ~/Downloads/Slimv075/syntax/slimv-syntax-clojure.vim ./syntax/clojure/slimv-syntax-clojure.vim
+  579  sudo cp ~/Downloads/Slimv075/syntax/clojure/slimv-syntax-clojure.vim ./syntax/clojure/slimv-syntax-clojure.vim
+  580  sudo cp ~/Downloads/Slimv075/syntax/clojure/slimv-syntax-clojure.vim ./syntax/clojure/
+  581  mkdir ./syntax/clojure
+  582  sudo cp ~/Downloads/Slimv075/syntax/clojure/slimv-syntax-clojure.vim ./syntax/clojure/
+  583  locate python.exe
+  584  locate python
+  585  locate scheme
+  586  cd ~
+  587  ls
+  588  cd /Sites/
+  589  cd ~/Sites/
+  590  ls
+  591  cd glasser
+  592  ls
+  593  mvim specs.txt
+  594  erl
+  595  ls
+  596  cd ~
+  597  cd /Applications/MacVim.app/Contents/Resources
+  598  ls
+  599  cd vim
+  600  ls
+  601  cd runtime
+  602  ls
+  603  cd /plugin
+  604  cd plugin
+  605  ls
+  606  cd ../
+  607  cd indent
+  608  ls
+  609  sudo cp ~/Downloads/erlang.vim .
+  610  sudo cp ~/Downloads/vim_erlang-0.2/indent/erlang.vim .
+  611  cd ../
+  612  cd autoload
+  613  sudo cp ~/Downloads/vim_erlang-0.2/autoload/ .
+  614  sudo cp ~/Downloads/vim_erlang-0.2/autoload/erlangcomplete.vim .
+  615  cd ../
+  616  cd ftplugin
+  617  sudo cp ~/Downloads/vim_erlang-0.2/ftplugin/erlang.vim .
+  618  cd ../indent
+  619  sudo cp ~/Downloads/vim_erlang-0.2/indent/erlang.vim .
+  620  cd ../syntax
+  621  ls
+  622  sudo cp ~/Downloads/vim_erlang-0.2/syntax/erlang.vim .
+  623  cd ~/learning/erlang
+  624  ls
+  625  mvim hello.erl
+  626  erl hello.erl
+  627  touch && mvim hw.erl
+  628  touch hw.erl && mvim hw.erl
+  629  erl
+  630  cd ~/learning/erlang
+  631  open .
+  632  cd ~/school/port.prep
+  633  ls
+  634  open Olson_gantt.png
+  635  cd ~/projects/yousayl
+  636  mvim ./app/controllers/posts_controller.rb
+  637  ls
+  638  cd ~
+  639  ls
+  640  cd ~/school/port.prep
+  641  ls
+  642  open .
+  643  cd ~/school/illustration
+  644  open .
+  645  cd ~/projects/node/starter/
+  646  ls
+  647  cd proj.1
+  648  touch notes.txt
+  649  mvim notes.txt
+  650  ls
+  651  mkdir logo
+  652  cd logo
+  653  touch writeup.txt && mvim writeup.txt
+  654  cd ~/projects/good
+  655  git pull jake master
+  656  ls -a
+  657  cd ~/school/port.prep/logo
+  658  touch logo.ai
+  659  open logo.ai
+  660  open logo.ai Adobe Illustrator
+  661  whois bao.me
+  662  whois baoist.me
+  663  cd ~/projects
+  664  git clone git@github.com:bradleyolson/doorman.git
+  665  cd doorman
+  666  ls
+  667  cd ~/projects/doorman
+  668  git pull
+  669  mkdir ~/projects/doorman-static/
+  670  cd ~/projects
+  671  git clone https://github.com/jakedahn/staticdoorman
+  672  https://github.com/jakedahn/staticdoorman.git
+  673  git clone git@github.com:jakedahn/staticdoorman.git
+  674  cd staticdoorman
+  675  ls
+  676  mvim .
+  677  open .
+  678  git remote add jake
+  679  git remote add jake git@github.com:bradleyolson/doorman.git
+  680  git remote add jake git@github.com:jakedahn/doorman.git
+  681  git remote
+  682  mate .git
+  683  git pull jake
+  684  git pull jake master
+  685  git clone git@github.com:jakedahn/doorman.git
+  686  ls
+  687  cd ../
+  688  git clone git@github.com:jakedahn/doorman.git
+  689  sudo git clone git@github.com:jakedahn/doorman.git
+  690  sudo rm -rf doorman
+  691  git clone git@github.com:jakedahn/doorman.git
+  692  cd doorman
+  693  ls
+  694  cd ../
+  695  git remote add origin git@github.com:bradleyolson/doorman.git
+  696  mate .git
+  697  rails server -p 2323
+  698  ls
+  699  cd doorman
+  700  ls
+  701  bundle install
+  702  rails server -p 2323
+  703  rake db:migrate
+  704  ls
+  705  mvim .
+  706  git push origin master
+  707  rake routes
+  708  whois olson.me
+  709  history
+  710  git commit -a -m "Added sortable js to rails project."
+  711  git add *
+  712  git commit -a -m "updated sortable."
+  713  git push origin master
+  714  git fetch jake
+  715  git co -b
+  716  git co -b jakemerge jake/master
+  717  git fetch jake
+  718  git co -b jakemerge jake/master
+  719  git remote
+  720  mate .git
+  721  git remote add jake git@github.com:jakedahn/staticdoorman.git
+  722  mate .git
+  723  git fetch jake
+  724  git co -b jakemerge jake/master
+  725  git merge master
+  726  mvim .
+  727  git log
+  728  emacs
+  729  ls
+  730  cd ..
+  731  rm -rf doorman
+  732  ls
+  733  git clone git@github.com:bradleyolson/doorman.git
+  734  git remote add jake git@github.com:jakedahn/staticdoorman.git
+  735  git fetch jake
+  736  git merge jake/master
+  737  git st
+  738  mate .gi
+  739  mate .git
+  740  cd doorman
+  741  git remote add jake git@github.com:jakedahn/staticdoorman.git
+  742  git fetch jake
+  743  git merge jake/master
+  744  git push origin master
+  745  mvim .
+  746  pwd
+  747  cd /Users/Jesus/projects/doorman
+  748  cd /Applications/MacVim.app
+  749  ls
+  750  cd Contents/Resources
+  751  cd vim
+  752  ls
+  753  cd runtime
+  754  ls
+  755  cd plugin
+  756  ls
+  757  mvim .
+  758  locate vim
+  759  ls
+  760  cd sites
+  761  ls
+  762  cd ~/sites
+  763  ls
+  764  cd nodeTe
+  765  cd nodeText
+  766  ls
+  767  vim app.js
+  768  locate NERD_tree.vim
+  769  cd ~/school/illustration
+  770  cd proj.1
+  771  ls
+  772  open .
+  773  cd ~/school/illustration
+  774  cd ~/school/port.prep
+  775  open .
+  776  cd ~/projects/staticdoorman
+  777  open .
+  778  whois brad.io
+  779  ls
+  780  cd ~/school/int.authoring
+  781  ls
+  782  touch js_doc.txt
+  783  mvim js_doc.txt
+  784  open .
+  785  whois brad.me
+  786  ls
+  787  cd ../port.prep
+  788  cp ~/Downloads/ILGrid_974px_12.ai .
+  789  ls
+  790  open ILGrid_974px_12.ai /Applications/Adobe Illustrator
+  791  open .
+  792  locate everyone
+  793  cd ~/Sites/static-everyone
+  794  open .
+  795  cd ~/school/int.authoring
+  796  ls
+  797  rails new dailycake
+  798  cd dailycake
+  799  ls
+  800  pwd
+  801  cd /Users/Jesus/school/int.authoring/dailycake
+  802  rails server -p 2323
+  803  ls
+  804  mvim .
+  805  rails g scaffold recipe name:string
+  806  rake db:migrate
+  807  mvim .
+  808  rails g scaffold ingredient title:string amount:string recipe_id:integer
+  809  rails g scaffold direction text:string position:integer recipe_id:integer
+  810  rails server -p 2323
+  811  rake db:migrate
+  812  mvim .
+  813  cd ~/Sites/murg/wp-content/themes
+  814  ls
+  815  mvim murgitroid
+  816  open .
+  817  mvim murgitroid
+  818  mvim .
+  819  cd ~/projects/yousayl
+  820  ls
+  821  mate .
+  822  sudo killall Finder
+  823  rails server -p 2323
+  824  sudo killall Finder
+  825  cd ~/Sites/murg/wp-content/themes/murgitroid/js
+  826  mvim .
+  827  cd ../
+  828  mvim .
+  829  whois badbrad.com
+  830  rake db:migrate
+  831  whois badbrad.com
+  832  mvim .
+  833  cd ~/projects/yousayl
+  834  ls
+  835  mate .
+  836  ls
+  837  cd test
+  838  ls
+  839  cd ../
+  840  cd db
+  841  ls
+  842  rails -v
+  843  ruby --v
+  844  ruby -v
+  845  cd migrate
+  846  ls
+  847  cd ../
+  848  rails server -p 2323
+  849  whois myspace.com
+  850  ls
+  851  git st
+  852  ls
+  853  history
+  854  brew
+  855  irb
+  856  cd Downloads/MasterC
+  857  cd ~/Desktop/rachel_project2
+  858  mvim .
+  859  ls
+  860  cd ~/Downloads
+  861  ls
+  862  cd ~/school/int.authoring
+  863  open .
+  864  cd ../
+  865  cd illustration
+  866  open .
+  867  cd ~/school/illustration
+  868  open .
+  869  sudo killall finder
+  870  sudo killall Finder
+  871  open .
+  872  sudo killall Finder
+  873  ls
+  874  cd ~/school/port.prep
+  875  open .
+  876  node -v
+  877  npm update node
+  878  npm upgrade
+  879  npm help
+  880  npm help help
+  881  npm help update
+  882  npm update
+  883  node -v
+  884  npm update node
+  885  cd ~/Downloads/node-v0.2.6
+  886  ls
+  887  ./configure
+  888  make
+  889  sudo make install
+  890  node -v
+  891  npm -v
+  892  cd ~/projects
+  893  git clone git@github.com:bradleyolson/tardis.git
+  894  node server -p 2323
+  895  ls
+  896  cd tardis
+  897  node server -p 2323
+  898  ls
+  899  git pull jake master
+  900  mate .git
+  901  git pull jake master
+  902  mvim .
+  903  pwd
+  904  cd /Users/Jesus/projects/tardis
+  905  node server.js
+  906  local npm
+  907  locate npm
+  908  locate express
+  909  ls
+  910  cd ~/school/illustration
+  911  open .
+  912  mvim .
+  913  cd ~/school/port.prep
+  914  open .
+  915  sudo killall Finder
+  916  sudo port install pianobar
+  917  cd school/int.authoring
+  918  open .
+  919  whois ca.sh
+  920  ls
+  921  cd ~/projects/doorman
+  922  ls
+  923  git pull jake master
+  924  mvim .git
+  925  git pull jake
+  926  whois sh.it
+  927  whois brad.io
+  928  cd ~/projects
+  929  ls
+  930  locate dailycake
+  931  locate daily
+  932  locate cake
+  933  ls
+  934  cd ~/school/int.authoring
+  935  ls
+  936  cd dailycake
+  937  ls
+  938  mvim .
+  939  pwd
+  940  cd /Users/Jesus/school/int.authoring/dailycake
+  941  rails server -p 232323
+  942  rails server -p 2323
+  943  open .
+  944  whois brad.io
+  945  cd ~/school/int.authoring
+  946  open .
+  947  locate nerdery
+  948  ls
+  949  cd ~
+  950  ls
+  951  cd ~/school/int.authoring
+  952  ls
+  953  cd dailycake
+  954  mvim .
+  955  pwd
+  956  cd /Users/Jesus/school/int.authoring/dailycake
+  957  rails server -p 2323
+  958  cd ~/school/int.authoring
+  959  ls
+  960  open .
+  961  ls
+  962  sudo gem install paperclip
+  963  rails generate migration add_photo_to_microposts photo_file_name:string photo_content_type:string photo_file_size:integer
+  964  rake db:migrate
+  965  rails generate migration add_photo_to_recipes photo_file_name:string photo_content_type:string photo_file_size:integer
+  966  rake db:migrate
+  967  rails generate migration add_photo_to_recipes photo_file_name:string photo_content_type:string photo_file_size:integer
+  968  rake db:migrate
+  969  rails server -p 2323
+  970  sudo bundle install
+  971  mvim .
+  972  rails server -p 2323
+  973  bundle install
+  974  rails server -p 2323
+  975  ls -a
+  976  cd ~/projects/yousayl
+  977  ls
+  978  mate .
+  979  ruby server/script
+  980  ls
+  981  cd script
+  982  ls
+  983  ls -a -r
+  984  cd ../
+  985  ruby script
+  986  ls -a -r
+  987  ls -ar
+  988  ls -a -R
+  989  cd script
+  990  ls -a -R
+  991  cd ../
+  992  sudo port install imagemagick
+  993  which identify
+  994  cd ~/learning
+  995  ls
+  996  cd peepcode
+  997  ls
+  998  open .
+  999  locate command
+ 1000  locate meet command
+ 1001  cd ~/school/int.authoring/dailycake
+ 1002  rails server -p 2323
+ 1003  mvim .
+ 1004  sudo gem install devise
+ 1005  mvim .
+ 1006  bundle install
+ 1007  rails generate devise_install
+ 1008  rails g devise:install
+ 1009  rails server -p 2323
+ 1010  cd ~/school/int.authoring
+ 1011  rails serer -p 2323
+ 1012  mvim .
+ 1013  cd dailycake
+ 1014  rails server -p 2323
+ 1015  mvim .
+ 1016  rails generate devise User
+ 1017  cd ~/school/int.authoring
+ 1018  open .
+ 1019  rails server -p 2323
+ 1020  rake routes
+ 1021  rails detour
+ 1022  rake routes
+ 1023  rake db:migrate
+ 1024  rails generate devise User
+ 1025  rails detour
+ 1026  rails destroy User
+ 1027  rails destroy devise User
+ 1028  rails generate devise User
+ 1029  rake db:migrate
+ 1030  rails detour
+ 1031  rake routes
+ 1032  rake db:migrate
+ 1033  sqlite3
+ 1034  rake db:migrate
+ 1035  gem list --local
+ 1036  rails generate devise:install
+ 1037  rails generate devise:views
+ 1038  sudo gem install hpricot
+ 1039  rails generate devise:views
+ 1040  gem install hpricot
+ 1041  sudo gem install hpricot
+ 1042  sudo gem update
+ 1043  rake routes
+ 1044  rails server -p 2323
+ 1045  rake routes
+ 1046  rails server -p 2323
+ 1047  cd ~/school/int.authoring/dailycake
+ 1048  rails s -p 2323
+ 1049  mvim .
+ 1050  rake routes
+ 1051  cd ~/school/int.authoring
+ 1052  cd ../
+ 1053  cd port.prep
+ 1054  ls
+ 1055  open .
+ 1056  rails g mi
+ 1057  mvim .
+ 1058  rails g migration AddUserIdToRecipes user_id:integer
+ 1059  rake db:migrate
+ 1060  rake routes
+ 1061  mvim .
+ 1062  open .
+ 1063  ls
+ 1064  rails s -p 2323
+ 1065  cd sites
+ 1066  mkdir murg_mobile
+ 1067  cd !
+ 1068  cd murg
+ 1069  cd ../murg_mobile
+ 1070  ls
+ 1071  git clone https://github.com/appcelerator/KitchenSink.git
+ 1072  cd ~/school/illustration
+ 1073  mkdir book
+ 1074  cd book
+ 1075  rails s -p 2323
+ 1076  cd ~/school
+ 1077  cd port.prep
+ 1078  ls
+ 1079  open .
+ 1080  cd ~/school/int.authoring
+ 1081  cd ~/Sites/lateral/us/
+ 1082  mate .
+ 1083  cd ~/Applications
+ 1084  ls
+ 1085  cd /Users/
+ 1086  ls
+ 1087  cd Jesus
+ 1088  ls
+ 1089  cd Applications
+ 1090  ls
+ 1091  locate Applications
+ 1092  cd /Applications
+ 1093  ls
+ 1094  cd android-sdk-mac_x86
+ 1095  tools/android update sdk
+ 1096  cd ~/Sites/murg_mobile
+ 1097  git clone git@github.com:bradleyolson/gfda_iphone.git
+ 1098  ls
+ 1099  open .
+ 1100  java -version
+ 1101  javac -version
+ 1102  ls
+ 1103  sudo rm -rf KitchenSink
+ 1104  git clone https://github.com/appcelerator/KitchenSink.git
+ 1105  cd ~/school/int.authoring
+ 1106  ls
+ 1107  cd dailycake
+ 1108  cd ~/school/int.authoring/dailycake
+ 1109  rails s -p 2323
+ 1110  mvim .
+ 1111  ls
+ 1112  cd ~/school/port.prep
+ 1113  open .
+ 1114  ls
+ 1115  cd ../illustration/book
+ 1116  open .
+ 1117  sudo port update xcode
+ 1118  sudo port install xcode
+ 1119  cd ~/school/port.prep
+ 1120  git clone https://github.com/jakedahn/testfetch.git
+ 1121  open .
+ 1122  ls
+ 1123  cd test
+ 1124  cd testfetch
+ 1125  ls
+ 1126  mvim .
+ 1127  open .
+ 1128  whois gobangbang.com
+ 1129  ls
+ 1130  cd ~/school/script
+ 1131  ls
+ 1132  cd node
+ 1133  ls
+ 1134  cd ../
+ 1135  cd socode
+ 1136  mvim .
+ 1137  cd /Applications/MacVim.app/Contents/Resources
+ 1138  ls
+ 1139  cd vim
+ 1140  ls
+ 1141  cd runtime
+ 1142  ls
+ 1143  cd plugin
+ 1144  cd ../
+ 1145  sudo cp ~/Downloads/vim-fuzzyfinder/plugin/fuf.vim plugin
+ 1146  cd plugin
+ 1147  ls
+ 1148  cd ../
+ 1149  sudo cp ~/Downloads/vim-fuzzyfinder/doc/fuf.txt doc
+ 1150  mvim .
+ 1151  sudo cp ~/Downloads/vim-fuzzyfinder/autoload/fuf.vim autoload
+ 1152  cd ~/
+ 1153  cd ~/Downloads/vim-fuzzyfinder
+ 1154  ls
+ 1155  open .
+ 1156  cd autoload
+ 1157  ls
+ 1158  mkdir fuf
+ 1159  cd fuf
+ 1160  sudo cp ~/Downloads/vim-fuzzyfinder/autoload/fuf/* 
+ 1161  sudo cp ~/Downloads/vim-fuzzyfinder/autoload/fuf/* .
+ 1162  ls
+ 1163  mvim .
+ 1164  cd ../../
+ 1165  ls
+ 1166  cd plugin
+ 1167  sudo cd ~/Downloads/vim-l9/plugin .
+ 1168  ls
+ 1169  sudo cp ~/Downloads/vim-l9/plugin .
+ 1170  ls
+ 1171  sudo cp ~/Downloads/vim-l9/plugin/l9.vim .
+ 1172  cd ../doc
+ 1173  sudo cp ~/Downloads/vim-l9/doc/l9.txt .
+ 1174  cd ../autoload
+ 1175  sudo cp ~/Downloads/vim-l9/autoload/* .
+ 1176  ls
+ 1177  sudo cp ~/Downloads/vim-l9/autoload/l9.vim .
+ 1178  mvim .
+ 1179  ls
+ 1180  cd ../
+ 1181  ls
+ 1182  sudo vim vimrc
+ 1183  mvim .
+ 1184  locate vimrc
+ 1185  cd /usr/share/vim
+ 1186  sudo vim vimrc
+ 1187  sudo mvim vimrc
+ 1188  mvim .
+ 1189  sudo gem install fuzzy_file_finder
+ 1190  gem unpack fuzzy_file_finder
+ 1191  cd ~
+ 1192  gem unpack fuzzy_file_finder
+ 1193  locate .vim
+ 1194  cd /Applications/MacVim.app/Contents/Resources
+ 1195  ls
+ 1196  cd vim
+ 1197  ls
+ 1198  cd runtime
+ 1199  ls
+ 1200  ruby
+ 1201  cd ruby
+ 1202  mkdir ruby
+ 1203  cd ruby
+ 1204  sudo cp ~/fuzzy_file_finder-1.0.4/lib/fuzzy_file_finder.rb .
+ 1205  ls
+ 1206  sudo mvim vimrc
+ 1207  cd /Applications/MacVim.app/Contents/Resources/vim/runtime/plugin
+ 1208  wget https://github.com/airblade/fuzzyfinder_textmate/raw/master/fuzzyfinder_textmate.vim
+ 1209  ls
+ 1210  wget http://github.com/airblade/fuzzyfinder_textmate/raw/master/fuzzyfinder_textmate.vim
+ 1211  sudo cp ~/Downloads/airblade-fuzzyfinder_textmate-0a9bd18/fuzzyfinder_textmate.vim .
+ 1212  mvim .
+ 1213  ls
+ 1214  cd /usr/local/src/ruby-1.8.7-
+ 1215  adas
+ 1216  asd
+ 1217  locate vimrc
+ 1218  cd /usr/share/vim/
+ 1219  ls
+ 1220  sudo mvim vimrc
+ 1221  cd /Applications/MacVim.app/Contents/Resources/vim
+ 1222  ls
+ 1223  sudo mvim vimrc
+ 1224  cd ~/school/script/socode
+ 1225  mvim .
+ 1226  ls
+ 1227  cd vim72
+ 1228  ls
+ 1229  pwd
+ 1230  ls
+ 1231  cd runtime
+ 1232  wget "http://www.vim.org/scripts/download_script.php?src_id=10718"
+ 1233  cd plugin
+ 1234  ls
+ 1235  cd ../
+ 1236  ls
+ 1237  unzip fuzzy.zip -d .
+ 1238  sudo rm -rf download_script.php\?src_id=10718
+ 1239  wget "http://www.vim.org/scripts/download_script.php?src_id=10718"
+ 1240  sudo rm -rf download_script.php\?src_id=10718
+ 1241  wget "http://www.vim.org/scripts/download_script.php?src_id=10718" -O fuzzy.zip
+ 1242  unzip fuzzy.zip -d .
+ 1243  sudo gem install fuzzy_file_finder -v=1.0.4
+ 1244  gem unpack fuzzy_file_finder
+ 1245  sudo cp fuzzy_file_finder-1.0.4/lib/fuzzy_file_finder.rb ruby
+ 1246  cd plugin
+ 1247  ls
+ 1248  mvim .
+ 1249  ls
+ 1250  mvim .
+ 1251  ruby finder.rescan!
+ 1252  locate vimfuzzyfinder
+ 1253  locate fuzzyfinder
+ 1254  locate fuzzy_finder
+ 1255  ls
+ 1256  sudo rm -rf fuf.vim
+ 1257  ls
+ 1258  mvim .
+ 1259  ls
+ 1260  cd ../
+ 1261  ls
+ 1262  sudo rm -rf ruby
+ 1263  ls
+ 1264  mvim .
+ 1265  ls
+ 1266  cd plugin
+ 1267  ls
+ 1268  mkdir ruby
+ 1269  cd ../
+ 1270  ls
+ 1271  sudo cp fuzzy_file_finder-1.0.4/lib/fuzzy_file_finder.rb plugin/ruby
+ 1272  mkdir ruby
+ 1273  sudo cp fuzzy_file_finder-1.0.4/lib/fuzzy_file_finder.rb ruby
+ 1274  ls
+ 1275  cd ruby
+ 1276  cd ~/school/script
+ 1277  ls
+ 1278  cd sp
+ 1279  cd socode
+ 1280  ls
+ 1281  mvim .
+ 1282  mkdir .vim
+ 1283  cd .vim
+ 1284  ls
+ 1285  vim .vim
+ 1286  sudo rm -rf .vim
+ 1287  mkdir .vim
+ 1288  cd .vim
+ 1289  mkdir ruby
+ 1290  cd ruby
+ 1291  gem unpack fuzzy_file_finder
+ 1292  ls
+ 1293  sudo cp fuzzy_file_finder-1.0.4/lib/fuzzy_file_finder.rb .
+ 1294  ls
+ 1295  mvim .
+ 1296  whois bestwebdesign
+ 1297  whois bestwebdesign.com
+ 1298  cd ~/school/illustration
+ 1299  ls
+ 1300  cd book
+ 1301  open .
+ 1302  locate trash
+ 1303  cd ~
+ 1304  mkdir code-a-day
+ 1305  cd code-a-day
+ 1306  ls
+ 1307  mkdir chrome-getvidlink
+ 1308  cd chrome-getvidlink
+ 1309  touch manifest.json
+ 1310  open .
+ 1311  mvim .
+ 1312  touch popup.html
+ 1313  touch getlink.js
+ 1314  touch background.html
+ 1315  cd ~/school/int.authoring
+ 1316  ls
+ 1317  cd ../port.prep
+ 1318  open .
+ 1319  ls
+ 1320  cd ~/code-a-day
+ 1321  ls
+ 1322  touch day2.ss
+ 1323  open .
+ 1324  mvim .
+ 1325  cd ~/Downloads/limp-0.3.4
+ 1326  ls
+ 1327  sudo ./install.sh
+ 1328  mkdir tardis
+ 1329  cd tardis
+ 1330  cd ~/Downloads
+ 1331  git clone https://github.com/oscarh/vimerl.git
+ 1332  cd ~/Applications/
+ 1333  ls
+ 1334  cd /Applications/MacVim.app
+ 1335  ls
+ 1336  cd Contents/Resources/vim/
+ 1337  ls
+ 1338  cd runtime
+ 1339  ls
+ 1340  cd pwd
+ 1341  pwd
+ 1342  cd vimerl
+ 1343  ls
+ 1344  pwd
+ 1345  sudo cp /Users/Jesus/Downloads/vimerl/ftplugin/* ./ftplugin
+ 1346  sudo cd /Users/Jesus/Downloads/vimerl/autoload/* ./autoload
+ 1347  sudo cp /Users/Jesus/Downloads/vimerl/autoload/* ./autoload
+ 1348  sudo cp /Users/Jesus/Downloads/vimerl/indent/* ./indent
+ 1349  sudo cp /Users/Jesus/Downloads/vimerl/syntax/* ./syntax
+ 1350  ls
+ 1351  touch main.erl
+ 1352  mvim main.erl
+ 1353  erl main.erl
+ 1354  cd ~/Sites
+ 1355  mkdir frozenrotors
+ 1356  cd frozenrotors
+ 1357  ls
+ 1358  touch index.html markets.html raving-fans.html products.html
+ 1359  mkdir images css js
+ 1360  mvim .
+ 1361  open .
+ 1362  ls
+ 1363  open .
+ 1364  cd ~/Sites/frozenrotors
+ 1365  ls
+ 1366  mvim .
+ 1367  open .
+ 1368  cd ~/code-a-day
+ 1369  ls
+ 1370  touch d3.erl
+ 1371  mvim .
+ 1372  erl
+ 1373  open .
+ 1374  cd ~/Desktop
+ 1375  cat "HelveNeuBolCon" > "HelvNeueBolCon.otf"
+ 1376  sudo cat "HelveNeuBolCon/..namedfork/rsrc" > "HelvNeueBolCon.otf"
+ 1377  sudo cat "MetaPluBooRom/..namedfork/rsrc" > "MetaPlusBook"
+ 1378  qew
+ 1379  sudo cat "MetaPluBooRom/..namedfork/rsrc" > "MetaPlusBook.otf"
+ 1380  sudo cat "FF MetaPlusBook/..namedfork/rsrc" > "MetaPlusBook.otf"
+ 1381  sudo cat "MetaPluBooRom/..namedfork/rsrc" > "MetaPlusBookRoman.otf"
+ 1382  sudo cat "MetaPluBooRom/..namedfork/rsrc" > "MetaPlusBookRoman.ttf"
+ 1383  open .
+ 1384  sudo cat "MetaPluBooRom/..namedfork/rsrc" > "MetaPlusBookRoman.otf"
+ 1385  cd ~/school/illustration
+ 1386  open .
+ 1387  sudo cat "MetaPluBooRom/..namedfork/rsrc" > "MetaPlusBookRoman.otf"
+ 1388  sudo cat "MetaPluBooRom/..namedfork/rsrc" > "MetaPlusBookRoman.ttf"
+ 1389  open .
+ 1390  erl
+ 1391  open .
+ 1392  mvim .
+ 1393  open .
+ 1394  erl
+ 1395  cd ~/code-a-day
+ 1396  ls
+ 1397  mkdir erlang-learning
+ 1398  cd erlang-learning
+ 1399  touch functest.erl
+ 1400  mvim functest.erl
+ 1401  cd ~/code-a-day/erlang-learning
+ 1402  erl
+ 1403  cd ~/school/port.prep
+ 1404  open .
+ 1405  erl
+ 1406  locate xbox
+ 1407  locate xbox_
+ 1408  cd ~/projects/xbox_project
+ 1409  mvim .
+ 1410  ls -a
+ 1411  mate .htaccess
+ 1412  zend update
+ 1413  php -i | grep include_path
+ 1414  ls -la /usr/lib/php/Zend/Loader.php
+ 1415  locate /Zend
+ 1416  cd ~/Sites/
+ 1417  zf create project
+ 1418  zf create xbox
+ 1419  zf create project xbox
+ 1420  cd xbox
+ 1421  ls
+ 1422  zf show phpinfo
+ 1423  zf show config
+ 1424  zf create config
+ 1425  ls -a
+ 1426  touch .htaccess
+ 1427  mate .htaccess
+ 1428  zf ?
+ 1429  zf create project
+ 1430  zf create project /Users/Jesus/Sites xoxo
+ 1431  mkdir xoxo
+ 1432  zf create project /Users/Jesus/Sites/xoxo
+ 1433  mkdir foo
+ 1434  zf create project /Users/Jesus/Sites/foo
+ 1435  zf create project /Users/Jesus/Sites/foo foo
+ 1436  rm .zf*.xml
+ 1437  ls
+ 1438  cd ../
+ 1439  ls
+ 1440  sudo rm -rf xbox_project
+ 1441  cd ~/Sites
+ 1442  rm .zf*.xml
+ 1443  ls
+ 1444  ls -a
+ 1445  zf create project /Users/Jesus/Sites/foob
+ 1446  cd ~/Sites/foob
+ 1447  ls
+ 1448  chmod 777 /usr/local/zend/apache2/htdocs/testproj
+ 1449  cd /usr/local/zend/
+ 1450  locate zend local
+ 1451  locate /local/zend
+ 1452  chmod 777 *
+ 1453  ls
+ 1454  mvim .
+ 1455  ls -a
+ 1456  mate .zfproject.xml
+ 1457  locate httpd
+ 1458  locate httpd.conf
+ 1459  mate /Applications/MAMP/conf/apache/httpd.conf
+ 1460  history
+ 1461  locate httpd.conf
+ 1462  mate /Applications/MAMP\ PRO\ 1.7.2/MAMP\ PRO.app/Contents/Resources/httpd.conf
+ 1463  zf create project /Users/Jesus/Sites/bar
+ 1464  zf show version
+ 1465  cd ~/Sites/bar
+ 1466  mate .htaccess
+ 1467  cd ..
+ 1468  zf create project /Users/Jesus/Sites/bar
+ 1469  rm -rf bar
+ 1470  zf create project /Users/Jesus/Sites/bar
+ 1471  cd bar
+ 1472  ls
+ 1473  vim public/.htaccess
+ 1474  open .
+ 1475  tail -f /Applications/MAMP/logs/apache_error_log
+ 1476  pwd
+ 1477  cd /Applications/MAMP\ PRO\n: 1299039965:0;cd /Applications/MAMP/conf/apache
+ 1478  s
+ 1479  ls
+ 1480  mate httpd.conf
+ 1481  cd ..
+ 1482  ls
+ 1483  grep -r ./* "VirtualHost"
+ 1484  $ grep -r "192.168.1.5" /etc/
+ 1485  $ grep -r "manthei" /etc/
+ 1486  ls
+ 1487  cd conf
+ 1488  ls
+ 1489  cd apache
+ 1490  ls
+ 1491  cd ../../
+ 1492  ls
+ 1493  cd logs
+ 1494  ls
+ 1495  touch apache_error_log
+ 1496  vim apache_error_log
+ 1497  mate .
+ 1498  cd ..
+ 1499  ls
+ 1500  $ grep -r "manthei" ./*
+ 1501  cd ../MAMP\ PRO\ 1.7.2
+ 1502  $ grep -r "manthei" ./*
+ 1503  grep -r "manthei" ./*
+ 1504  ls
+ 1505  cd MAMP\ PRO.app
+ 1506  lss
+ 1507  ls
+ 1508  cd Contents/Resources
+ 1509  ls
+ 1510  pwd
+ 1511  pwd | pbcoby -c
+ 1512  pwd | pbcopy -c
+ 1513  mvim .
+ 1514  pwd
+ 1515  cd ..
+ 1516  ls
+ 1517  cd bar
+ 1518  ls
+ 1519  locate php.ini
+ 1520  mate /Applications/MAMP/conf/php5/php.ini
+ 1521  cd /Applications/MAMP
+ 1522  mkdir svn
+ 1523  cd svn
+ 1524  mkdir zendframework
+ 1525  svn checkout http://framework.zend.com/svn/framework/standard/trunk
+ 1526  mate ~/.bashrc
+ 1527  mate ~/.zshrc
+ 1528  locate zf
+ 1529  ls -a ~
+ 1530  locate oh-my-zsh
+ 1531  mate ~/.oh-my-zsh
+ 1532  cd ~/sites
+ 1533  zf create project teste
+ 1534  cd /Applications/MAMP/svn
+ 1535  ls
+ 1536  cd zendframework
+ 1537  ls
+ 1538  cd ../
+ 1539  cd /Applications/MAMP/svn/trunk/bin
+ 1540  ls
+ 1541  cd ~/Sites/
+ 1542  zf create project teste
+ 1543  cd teste
+ 1544  pwd
+ 1545  mvim .
+ 1546  mate .htaccess
+ 1547  zf version
+ 1548  zf -v
+ 1549  zf --v
+ 1550  zf show version
+ 1551  zf --help
+ 1552  zf show config
+ 1553  cd /usr/local/ZendFrameworkCli/library
+ 1554  ls
+ 1555  cd Zend
+ 1556  ls
+ 1557  cd ~/
+ 1558  pear
+ 1559  cd /Applications/MAMP/bin/php5/bin/
+ 1560  ls
+ 1561  pear channel-discover zend.googlecode.com/svn
+ 1562  ./pear channel-discover zend.googlecode.com/svn
+ 1563  pear install zend/zend
+ 1564  ./pear install zend/zend
+ 1565  ls
+ 1566  locate Zend-1.11.3
+ 1567  ls
+ 1568  git st
+ 1569  rm -rf .git
+ 1570  cd Site
+ 1571  ls
+ 1572  cd ..
+ 1573  cd ~/Sites
+ 1574  ls
+ 1575  cd teste
+ 1576  ls
+ 1577  cd library
+ 1578  ls
+ 1579  cd ..
+ 1580  ls
+ 1581  cd ..
+ 1582  chmod -R 0777 teste
+ 1583  cd teste
+ 1584  ls
+ 1585  cd public
+ 1586  ls
+ 1587  cd ..
+ 1588  mate .
+ 1589  cd ..
+ 1590  cd foo
+ 1591  ls
+ 1592  cd ..
+ 1593  rm -rf foo
+ 1594  zf create project foo
+ 1595  cd foo
+ 1596  ls
+ 1597  mate ~/.zshrc
+ 1598  cd /Applications
+ 1599  ls
+ 1600  cd MAMP
+ 1601  ls
+ 1602  cd bin
+ 1603  ls
+ 1604  cd ..
+ 1605  cd svn
+ 1606  ls
+ 1607  cd trunk
+ 1608  ls
+ 1609  open library
+ 1610  ls
+ 1611  open .
+ 1612  mate .
+ 1613  ls
+ 1614  open 
+ 1615  open .
+ 1616  ls
+ 1617  mate .
+ 1618  mate /etc/hosts
+ 1619  cd /Applications/MAMP\ PRO\ 1.7.2/MAMP\ PRO.app/Contents/Resources
+ 1620  ls
+ 1621  mate httpd.conf
+ 1622  cd /Applications/MAMP/bin/php5
+ 1623  ls
+ 1624  cd lib
+ 1625  ls
+ 1626  cd php
+ 1627  ls
+ 1628  cd ../
+ 1629  ls
+ 1630  cd ../
+ 1631  ls
+ 1632  cd ../
+ 1633  ls
+ 1634  locate httpd.conf
+ 1635  cd ../
+ 1636  ls
+ 1637  vim /Applications/MAMP/conf/httpd.conf
+ 1638  cd conf
+ 1639  ls
+ 1640  cd php5
+ 1641  ls
+ 1642  vim /Applications/MAMP/conf/apache/httpd.conf
+ 1643  cd ../apache
+ 1644  ls
+ 1645  mate httpd.conf
+ 1646  ls
+ 1647  screen
+ 1648  screen -X
+ 1649  screen -x
+ 1650  ls
+ 1651  cd /Applications/MAMP/conf/apache
+ 1652  ls
+ 1653  httpd.conf.bak
+ 1654  ls
+ 1655  vim httpd.conf.bak
+ 1656  ls
+ 1657  mv httpd.conf foo.conf
+ 1658  mv httpd.conf.bak httpd.conf
+ 1659  ls
+ 1660  cd ..
+ 1661  ls
+ 1662  cd ..
+ 1663  cd bin/n
+ 1664  cd bin/
+ 1665  ls
+ 1666  cd apache2
+ 1667  ls
+ 1668  cd bin
+ 1669  ls
+ 1670  ./apachectl restart
+ 1671  sudo ./apachectl start
+ 1672  ls
+ 1673  cd ../conf
+ 1674  ls
+ 1675  cd ../conf
+ 1676  ls
+ 1677  cd ~/Sites
+ 1678  zf create project foobar
+ 1679  mate ~/
+ 1680  free
+ 1681  mvim --version
+ 1682  cd ~/Downloads
+ 1683  tar jxf vimshell_1.0_vim7.0.patch.bz2
+ 1684  vi conque_2.0.vba
+ 1685  cd /Applications/MacVim.app/Contents/Resources/vim/runtime/
+ 1686  ls
+ 1687  sudo cd ~/Downloads/conque_2.0/autoload/* ./autoload
+ 1688  sudo cd ~/Downloads/conque_2.0/doc/* ./doc
+ 1689  sudo cp ~/Downloads/conque_2.0/autoload/* ./autoload
+ 1690  sudo mv ~/Downloads/conque_2.0/autoload/* ./autoload
+ 1691  sudo mv ~/Downloads/conque_2.0/doc/* ./doc
+ 1692  sudo mv ~/Downloads/conque_2.0/plugin/* ./plugin
+ 1693  sudo mv ~/Downloads/conque_2.0/syntax/* ./syntax
+ 1694  ls
+ 1695  cd ~/
+ 1696  cd ~/Sites
+ 1697  ls
+ 1698  cd xoxo
+ 1699  ls
+ 1700  mvim .
+ 1701  locate .vimfuzzyfinder
+ 1702  rm -rf ~/.vimfuzzyfinder
+ 1703  cd ../foo
+ 1704  ls
+ 1705  mvim .
+ 1706  lsa 
+ 1707  ls -a
+ 1708  erl
+ 1709  ls
+ 1710  cd ../
+ 1711  ls
+ 1712  sudo vim vimrc
+ 1713  mvim .
+ 1714  qwe
+ 1715  mate ~/.oh-my-zsh
+ 1716  cd ~/
+ 1717  locate zf.sh
+ 1718  source .zshrc
+ 1719  zf --version
+ 1720  zf show version
+ 1721  cd Sites
+ 1722  zf create project testdel
+ 1723  cd testdel
+ 1724  ls
+ 1725  vim public/.htaccess
+ 1726  cd public
+ 1727  pwd
+ 1728  ls
+ 1729  cd ../../
+ 1730  ls
+ 1731  zf create project xbox
+ 1732  cd xbox
+ 1733  pwd
+ 1734  ls
+ 1735  cd ~/code-a-day
+ 1736  ls
+ 1737  cd erlang-learning
+ 1738  ls
+ 1739  mvim .
+ 1740  erl
+ 1741  cd ~/sites
+ 1742  cd
+ 1743  locate xbox
+ 1744  cd ~/Sites/xbox
+ 1745  ls
+ 1746  mvim .
+ 1747  zf create action add Index
+ 1748  View script for controller index and script/action name add
+ 1749  zf enable layout
+ 1750  ls
+ 1751  cd /Applications/MacVim.app/Contents/Resources/vim/runtime
+ 1752  ls
+ 1753  grep "\n\n"
+ 1754  grep "php"
+ 1755  cd indent
+ 1756  ls
+ 1757  sudo cp ~/Downloads/phtml.vim ./
+ 1758  ls
+ 1759  mvim .
+ 1760  ls
+ 1761  cp html.vim phtml.vim
+ 1762  sudo cp html.vim phtml.vim
+ 1763  mvim .
+ 1764  ls
+ 1765  cd ../syntax
+ 1766  ls
+ 1767  sudo cp ~/Downloads/phtml.vim ./
+ 1768  ls
+ 1769  sudo cp ~/Downloads/phtml.vim ./
+ 1770  ls
+ 1771  sudo rm -rf phtml.vim
+ 1772  ls
+ 1773  mvim .
+ 1774  ln -s /Applications/MacVim.app/Contents/Resources/vim/runtime/indent/html.vim /Applications/MacVim.app/Contents/Resources/vim/runtime/indent/phtml.vim
+ 1775  sudo ln -s /Applications/MacVim.app/Contents/Resources/vim/runtime/indent/html.vim /Applications/MacVim.app/Contents/Resources/vim/runtime/indent/phtml.vim
+ 1776  cd ../indent
+ 1777  ls
+ 1778  sudo rm -rf phtml.vim
+ 1779  sudo ln -s /Applications/MacVim.app/Contents/Resources/vim/runtime/indent/html.vim /Applications/MacVim.app/Contents/Resources/vim/runtime/indent/phtml.vim
+ 1780  mvim .
+ 1781  ls
+ 1782  cd ../indentls
+ 1783  ls
+ 1784  php -version
+ 1785  ls
+ 1786  mvim php.vim
+ 1787  cd ~/school/int.authoring/dailycake
+ 1788  ls
+ 1789  mvim .
+ 1790  cd ~/Sites/montessori/wp-content/themes/outreach
+ 1791  mvim .
+ 1792  cd ~/Sites
+ 1793  https://github.com/jakedahn/Static-Project-Framework.git
+ 1794  git clone https://github.com/jakedahn/Static-Project-Framework.git
+ 1795  cd Static-Project-Framework
+ 1796  mvim .
+ 1797  cd ~/Sites/frozenrotors
+ 1798  ls
+ 1799  mvim .
+ 1800  open .
+ 1801  history
+ 1802  cd ~/Desktop/MetaPlusBook-\ Folder
+ 1803  ls
+ 1804  sudo cat "MetaPluBooRom/..namedfork/rsrc" > "MetaPlusBookRoman.otf"
+ 1805  ls
+ 1806  cd ~/
+ 1807  ls
+ 1808  cd ~/Sites/frozenrotors
+ 1809  open .
+ 1810  ls
+ 1811  mvim .
+ 1812  open .
+ 1813  cd ~/Sites/frozenrotors
+ 1814  open .
+ 1815  mvim .
+ 1816  cd ~/site
+ 1817  ls
+ 1818  open .
+ 1819  cd ../
+ 1820  sudo rm -rf site
+ 1821  ls
+ 1822  cd Sites
+ 1823  ls
+ 1824  cd ~/xbox
+ 1825  ls
+ 1826  cd xbox
+ 1827  ls
+ 1828  mvim .
+ 1829  ping looce.com
+ 1830  locate php_error.log
+ 1831  cd /Applications/MAMP/logs
+ 1832  tail -f php_error.log
+ 1833  mvim .
+ 1834  open .
+ 1835  ls
+ 1836  mvim .
+ 1837  cd ~/Sites/
+ 1838  cd montessori
+ 1839  ls
+ 1840  cd wp-co
+ 1841  cd wp-content
+ 1842  cd themes
+ 1843  ls
+ 1844  cd outreach
+ 1845  mvim .
+ 1846  open .
+ 1847  cd ../
+ 1848  ls
+ 1849  cd ../
+ 1850  cd plugins
+ 1851  ls
+ 1852  cd alert
+ 1853  mvim .
+ 1854  open .
+ 1855  mvim .
+ 1856  mate .
+ 1857  open .
+ 1858  cd ~/Sites
+ 1859  git clonePRODUCED BYCHRIS COADY
+ 1860  git clone https://github.com/jakedahn/Static-Project-Framework.git
+ 1861  sudo rm -rf Static-Project-Framework
+ 1862  git clone https://github.com/jakedahn/Static-Project-Framework.git
+ 1863  cd ~/Sites/babysitter/wp-content/themes/
+ 1864  mkdir sitter
+ 1865  sudo cp ./twentyten/ ./sitter
+ 1866  sudo cp ./twentyten/* ./sitter/
+ 1867  mv ./twentyten ./sitter
+ 1868  cd sitter
+ 1869  ls
+ 1870  mvim .
+ 1871  open .
+ 1872  mvim .
+ 1873  l
+ 1874  ls
+ 1875  cd ../
+ 1876  ls
+ 1877  cd ../
+ 1878  ls
+ 1879  cd themes
+ 1880  ls
+ 1881  mvim .
+ 1882  cd sitter
+ 1883  mvim .
+ 1884  erlang
+ 1885  erl
+ 1886  cd ~/learning/Code\ Complete\ A\ Practical\ Handbook\ of\ Software\ Constructi
+ 1887  cd ~/code-a-day
+ 1888  ls
+ 1889  cd erlang-learning
+ 1890  mvim .
+ 1891  erl
+ 1892  cd ~/Sites/
+ 1893  ls
+ 1894  cd mrw
+ 1895  ls
+ 1896  cd wp-content/themes/mrw
+ 1897  mvim .
+ 1898  cd ../../
+ 1899  ls
+ 1900  cd ../
+ 1901  pwd
+ 1902  cd ../
+ 1903  ls
+ 1904  cd murg
+ 1905  mvim .
+ 1906  cd wp-content/themes/murgitroid
+ 1907  mvim .
+ 1908  a
+ 1909  ls
+ 1910  cd ~/Sites/babysitter/wp-content/themes
+ 1911  ls
+ 1912  cd sitter
+ 1913  mvim .
+ 1914  system("/usr/bin/seq 1000");
+ 1915  ls
+ 1916  cd /usr/bin/se
+ 1917  cd /usr/bin/
+ 1918  ls
+ 1919  cd ~/code-a-day
+ 1920  hg clone https://zotonic.googlecode.com/hg/ zotonic
+ 1921  open .
+ 1922  erl
+ 1923  cd ~/code-a-day/erlang-learning
+ 1924  ls
+ 1925  open .
+ 1926  mvim .
+ 1927  pwd
+ 1928  cd /Users/Jesus/code-a-day/erlang-learning
+ 1929  erl
+ 1930  ssh brad@lateral.us
+ 1931  ssh lateral.us brad
+ 1932  ssh lateralus@lateral.us
+ 1933  ssh alllateralus@lateral.us
+ 1934  cd school/port.prep
+ 1935  git clone https://github.com/jakedahn/testfetch.git
+ 1936  mate .
+ 1937  cd testfetch
+ 1938  mate .
+ 1939  whois asterisk.io
+ 1940  cd ~/Downloads/erlyweb-0.7.1
+ 1941  ls
+ 1942  make
+ 1943  _configure
+ 1944  make
+ 1945  sudo make install
+ 1946  make install
+ 1947  open .
+ 1948  ls
+ 1949  start.sh
+ 1950  cd ../
+ 1951  ls
+ 1952  git clone git://github.com/klacke/yaws.gi
+ 1953  git clone git://github.com/klacke/yaws.git
+ 1954  cd yaws
+ 1955  ls
+ 1956  _configure
+ 1957  ./configure
+ 1958  autoconf
+ 1959  ./configure
+ 1960  make
+ 1961  mate install
+ 1962  make install
+ 1963  sudo make install
+ 1964  yaws -i
+ 1965  cd ~/erlang
+ 1966  git clone git://github.com/klacke/yaws.git  
+ 1967  cd yaws
+ 1968  ./configure --help
+ 1969  autoconf; ./configure; make; make local_install
+ 1970  cd yaws
+ 1971  sudo make install
+ 1972  yaws -i
+ 1973  yaws --daemon
+ 1974  yaws --i
+ 1975  yaws -i
+ 1976  cd ~/school/int.authoring
+ 1977  ls
+ 1978  cd dailycake
+ 1979  pwd
+ 1980  /Users/Jesus/school/int.authoring/dailycake
+ 1981  ls
+ 1982  cd ../
+ 1983  cd dailycake
+ 1984  rails server -p 2323
+ 1985  mvim .
+ 1986  cd ~/Sites/montessori
+ 1987  cd wp-content
+ 1988  cd themes
+ 1989  ls
+ 1990  open .
+ 1991  rails generate devise:views
+ 1992  sudo gem install hpricot
+ 1993  rails generate devise:views
+ 1994  rails generate devise:views --trace
+ 1995  sudo gem update hpricot
+ 1996  rails generate devise:views
+ 1997  bundle install
+ 1998  rails g devise:views
+ 1999  cd ~/school/int.authoring/dailycake
+ 2000  mvim .
+ 2001  y
+ 2002  open .
+ 2003  ls
+ 2004  cd ~/code-a-day/erlang-learning
+ 2005  touch bump.erl
+ 2006  mvim bump.erl
+ 2007  pwd
+ 2008  ls
+ 2009  cd /Users/Jesus/code-a-day/erlang-learning
+ 2010  ls
+ 2011  erl
+ 2012  mvim .
+ 2013  /sysinfo
+ 2014  sysinfo
+ 2015  ls
+ 2016  touch test.txt
+ 2017  mvim .
+ 2018  cd ~/Sites/frozenrotors
+ 2019  ls
+ 2020  cd js
+ 2021  mate .
+ 2022  open .
+ 2023  cd ~/code-a-day/erlang-learning
+ 2024  touch eoc.erl
+ 2025  mvim .
+ 2026  pwd
+ 2027  cd /Users/Jesus/code-a-day/erlang-learning
+ 2028  erl
+ 2029  cd ~/Sites/xbox
+ 2030  pwd
+ 2031  cd /Users/Jesus/Sites/xbox
+ 2032  ls
+ 2033  mvim .
+ 2034  cd /Applications/MAMP\ PRO\ 1.9.4
+ 2035  ls
+ 2036  cd MAMP\ PRO.app
+ 2037  ls
+ 2038  cd Contents/Resources
+ 2039  ls
+ 2040  locate logs
+ 2041  locate mamp/logs
+ 2042  cd ~/Sites/babysitter/wp-content/themes/sitter
+ 2043  mvim .
+ 2044  cd ~/Sites/murg/wp-content/themes/murgitroid
+ 2045  mate .
+ 2046  open .
+ 2047  mate .
+ 2048  ssh alllateralus@lateral.us
+ 2049  wget http://www1127.megaupload.com/files/06dc26a4af72d6c6d528fa8c0fdd8ffa/The.Mentalist.S02E09.A.Price.Above.Rubies.HDTV.XviD-FQM.[VTV].avi
+ 2050  wget http://www1127.megaupload.com/files/66c8ddcbcf662da92ca17492dd258f99/The.Mentalist.S02E09.A.Price.Above.Rubies.HDTV.XviD-FQM.[VTV].avi
+ 2051  which wget
+ 2052  cd Desktop
+ 2053  ls
+ 2054  wget http://www1127.megaupload.com/files/66c8ddcbcf662da92ca17492dd258f99/The.Mentalist.S02E09.A.Price.Above.Rubies.HDTV.XviD-FQM.[VTV].avi
+ 2055  wget "http://www1127.megaupload.com/files/66c8ddcbcf662da92ca17492dd258f99/The.Mentalist.S02E09.A.Price.Above.Rubies.HDTV.XviD-FQM.[VTV].avi"
+ 2056  ls
+ 2057  rm -rf The.Mentalist.S02E09.A.Price.Above.Rubies.HDTV.XviD-FQM.\[VTV\].avi 
+ 2058  wget "http://www1127.megaupload.com/files/66c8ddcbcf662da92ca17492dd258f99/The.Mentalist.S02E09.A.Price.Above.Rubies.HDTV.XviD-FQM.[VTV].avi"
+ 2059  lw
+ 2060  ls
+ 2061  ssh alllateralus@lateral.us
+ 2062  mvim .
+ 2063  mate .
+ 2064  mvim .
+ 2065  cd ~/Sites/montessori/wp-content/themes
+ 2066  ls
+ 2067  cd outreach
+ 2068  ls
+ 2069  mvim .
+ 2070  ls
+ 2071  cd ../
+ 2072  mate .
+ 2073  cd ~/Sites/frozenrotors
+ 2074  mate .
+ 2075  cd /Applications/MacVim.app/Contents/Resources
+ 2076  ls
+ 2077  cd vim
+ 2078  ls
+ 2079  cd runtime
+ 2080  cd ~/school/illustration
+ 2081  ls
+ 2082  cd final
+ 2083  ls
+ 2084  open .
+ 2085  cd ~/school/int.authoring
+ 2086  cd dailycake
+ 2087  mvim .
+ 2088  whois dances.com
+ 2089  pwd
+ 2090  cd /Users/Jesus/school/int.authoring/dailycake
+ 2091  cd ~/school/int.authoring
+ 2092  cd daily
+ 2093  cd dailycake
+ 2094  mvim .
+ 2095  pwd
+ 2096  cd /Users/Jesus/school/int.authoring/dailycake
+ 2097  rails s -p 2323
+ 2098  cd ../
+ 2099  open .
+ 2100  cd ~/Sites/babysitter
+ 2101  cd wp-content/themes/sitter
+ 2102  mvim .
+ 2103  cd ~/projects
+ 2104  git clone git@github.com:bradleyolson/fontduos.git
+ 2105  mate .git
+ 2106  ls
+ 2107  cd fontduos
+ 2108  mate .git
+ 2109  bundle install
+ 2110  mvim .
+ 2111  pwd
+ 2112  cd /Users/Jesus/projects/fontduos
+ 2113  rails s -p 2323
+ 2114  rails db:migrate
+ 2115  rake db:migrate
+ 2116  ls
+ 2117  cd db
+ 2118  ls
+ 2119  sudo cp ~/Desktop/development.sqlite3 ./
+ 2120  git commit -a -m "added .g\n"
+ 2121  git st
+ 2122  git add *
+ 2123  git add * -f
+ 2124  git st
+ 2125  git log
+ 2126  git reset --hard
+ 2127  git st
+ 2128  mate .git
+ 2129  cd ../
+ 2130  git st
+ 2131  mate .git
+ 2132  git remotes
+ 2133  git remote
+ 2134  git fetch jake
+ 2135  git pull jake master
+ 2136  git log
+ 2137  git add *
+ 2138  mvim .
+ 2139  rails s -p 2323
+ 2140  cd db
+ 2141  ls
+ 2142  sudo cp ~/Desktop/development.sqlite3 ./
+ 2143  mate .
+ 2144  cd ../
+ 2145  git pull jake master
+ 2146  rails s -p 2323
+ 2147  git pull jake master
+ 2148  git add *
+ 2149  git commit -a -m "Added dynamic content loading with jQuery."
+ 2150  git push
+ 2151  cd ~/school/int.authoring
+ 2152  ls
+ 2153  cd dailycake
+ 2154  ls
+ 2155  ls -a
+ 2156  mate .git
+ 2157  git init
+ 2158  git add *
+ 2159  git commit -a -m "initial commit"
+ 2160  git remote add origin git@github.com:bradleyolson/dailycake.git
+ 2161  git push origin master
+ 2162  ls
+ 2163  cd ~
+ 2164  ls
+ 2165  cd projects
+ 2166  ls
+ 2167  mkdir reader
+ 2168  cd reader
+ 2169  ls
+ 2170  touch server.js
+ 2171  locate run_dev_server.js
+ 2172  cd /Users/Jesus/projects/node/
+ 2173  ls
+ 2174  cd starter
+ 2175  ls
+ 2176  mkdir lib public
+ 2177  mvim .
+ 2178  npm udate node
+ 2179  cd ~/Downloads
+ 2180  git clone https://github.com/joyent/node.git
+ 2181  npm install jquery
+ 2182  npm update
+ 2183  cd node
+ 2184  ls
+ 2185  ./configure
+ 2186  make
+ 2187  sudo make install
+ 2188  node -v
+ 2189  ls
+ 2190  node server.js
+ 2191  npm install journey
+ 2192  node server.js
+ 2193  ping dev.looce.com
+ 2194  node server.js
+ 2195  npm install jsdom
+ 2196  node server.js
+ 2197  npm install
+ 2198  ls
+ 2199  node server.js
+ 2200  npm install XMLHttpRequest
+ 2201  node server.js
+ 2202  npm node-XMLHttpRequest
+ 2203  npm install node-XMLHttpRequest
+ 2204  npm install xmlhttprequest
+ 2205  node server.js
+ 2206  npm install jquery
+ 2207  ping dev.looce.com
+ 2208  node server.js
+ 2209  open .
+ 2210  node server.js
+ 2211  curl "http://www.grymoire.com/Unix/Regular.html"
+ 2212  node server.js
+ 2213  curl "http://www.grymoire.com/Unix/Regular.html"
+ 2214  node server.js
+ 2215  node server.js\n: 1301425285:0;node server.js
+ 2216  npm install readability
+ 2217  node server.js
+ 2218  cd ~/Downloads/node-v0.4.4
+ 2219  ./configure
+ 2220  make
+ 2221  npm install htmlparser
+ 2222  node server.js
+ 2223  node -v
+ 2224  sudo make install
+ 2225  node -v
+ 2226  node server.js
+ 2227  git init
+ 2228  git add *
+ 2229  git commit -a -m "setup project, bare minimum."
+ 2230  git remote add origin git@github.com:bradleyolson/readapi.git
+ 2231  git push -u origin master
+ 2232  git push origin master
+ 2233  ping 76.113.212.192
+ 2234  node server.js
+ 2235  cd ~/school/int.authoring/
+ 2236  open .
+ 2237  cd ~/projects/reader
+ 2238  ls
+ 2239  node server.js
+ 2240  cd ~/projects/sayl
+ 2241  ls
+ 2242  cd ../yousayl
+ 2243  ls
+ 2244  cd public
+ 2245  ls
+ 2246  cd images
+ 2247  open .
+ 2248  ls
+ 2249  cd sites
+ 2250  ls
+ 2251  cd itssm
+ 2252  ls
+ 2253  mvim .
+ 2254  open .
+ 2255  mvim .
+ 2256  locate build/iphone
+ 2257  locate iphone
+ 2258  cd /Applications/Titanium\ Developer.app
+ 2259  ls
+ 2260  cd Contents/Resources
+ 2261  ls
+ 2262  locate build
+ 2263  locate build iphone
+ 2264  ls
+ 2265  ls -a
+ 2266  ls -a -r
+ 2267  ls -ar
+ 2268  ls -aR
+ 2269  find /Applications/Titanium\ Developer.app -name build
+ 2270  find /Applications/Titanium\ Developer.app -name iphone
+ 2271  find / -name iphone
+ 2272  locate build/iphone
+ 2273  open /
+ 2274  open .
+ 2275  cd ~/Sites/stcroix
+ 2276  ls
+ 2277  mvim .
+ 2278  ssh admin@sweetseveneleven.com
+ 2279  ls
+ 2280  cd ../
+ 2281  cd ~/projects
+ 2282  ls
+ 2283  git clone https://github.com/yosh/s2.git
+ 2284  ls
+ 2285  cd s2
+ 2286  ls
+ 2287  mvim .
+ 2288  cd ~/Sites/stcroix
+ 2289  ls
+ 2290  mvim .
+ 2291  whois http://stcroixnationalgolf.com/
+ 2292  whois stcroixnationalgolf.com
+ 2293  ping stcroixnationalgolf.com
+ 2294  cd ~/Sites/apprizeart
+ 2295  mvim .
+ 2296  cd ~/Desktop/Users/Jesus/Sites/itssm/build/iphone/Classes/AudioStreamer/
+ 2297  cd /Users/Jesus/Sites/itssm/build/iphone/Classes/AudioStreamer/
+ 2298  ls
+ 2299  mate AudioStreamer.m
+ 2300  locate xcode
+ 2301  cd ~/Sites/stcroix/
+ 2302  mate .
+ 2303  cd ~/sites/
+ 2304  cd ~/projects/fontduos
+ 2305  git pull jake master
+ 2306  mvim .
+ 2307  pwd
+ 2308  cd /Users/Jesus/projects/fontduos
+ 2309  rails server -p 2323
+ 2310  cd ~/projects
+ 2311  ls
+ 2312  cd ~/erlang
+ 2313  ls
+ 2314  ls -a
+ 2315  cd ../code-a-day
+ 2316  ls
+ 2317  cd erlang-learning
+ 2318  ls
+ 2319  mvim .
+ 2320  cd ~/Sites/
+ 2321  ls
+ 2322  cd stcroix
+ 2323  ls
+ 2324  mvim .
+ 2325  cd ~/
+ 2326  ssh admin@sweetseveneleven.com
+ 2327  cd ~/Sites/very
+ 2328  ls
+ 2329  cd wp-content
+ 2330  ls
+ 2331  mvim .
+ 2332  w
+ 2333  whois doctorwhofanclub.com
+ 2334  whois doctorwhocountdown.com
+ 2335  cd ~/Sites/babysitter
+ 2336  cd wp-content/themes/sitter
+ 2337  ls
+ 2338  mvim .
+ 2339  open .
+ 2340  cd ~/projects/reader
+ 2341  ls
+ 2342  mvim .
+ 2343  cd ../
+ 2344  mkdir erlyreader
+ 2345  cd erlyreader
+ 2346  ls
+ 2347  pwd
+ 2348  cd /Users/Jesus/projects/reader
+ 2349  mate .
+ 2350  touch parser.erl
+ 2351  mvim .
+ 2352  ls
+ 2353  erl
+ 2354  locate kernal
+ 2355  locate file.hrl
+ 2356  cd ~/code-a-day
+ 2357  ls
+ 2358  cd erlang-learning
+ 2359  mate .
+ 2360  ls
+ 2361  cd ~/projects/erlyreader
+ 2362  touch foo.html
+ 2363  mate .
+ 2364  erl
+ 2365  cat ~/.ssh/id_rsa.pub | pbcopy -c
+ 2366  cd ~/Sites/foo
+ 2367  cd ~/Sites/very
+ 2368  ls
+ 2369  cd wp-content
+ 2370  ls
+ 2371  cd themes
+ 2372  ls
+ 2373  mvim .
+ 2374  cd ../../
+ 2375  ls
+ 2376  cd wp-content
+ 2377  mvim .
+ 2378  pwd
+ 2379  mate .
+ 2380  open ../
+ 2381  cd ../
+ 2382  ls -a
+ 2383  cd wp-content
+ 2384  mate .
+ 2385  locate processing
+ 2386  locate Processing/
+ 2387  cd ~/Processing
+ 2388  cd ~/Sites/murg
+ 2389  cd wp-content
+ 2390  cd themes/si
+ 2391  cd themes/
+ 2392  ls
+ 2393  cd murgitroid
+ 2394  mate .
+ 2395  ls
+ 2396  pwd
+ 2397  mate .
+ 2398  open .
+ 2399  mate .
+ 2400  ls
+ 2401  cd ~/Sites/veryport
+ 2402  ls
+ 2403  git init
+ 2404  git add *
+ 2405  git remote add origin git@github.com:grandpageorge/veryport.git
+ 2406  git commit -a -m "project initialization."
+ 2407  git push -u origin master
+ 2408  git -v
+ 2409  git --version
+ 2410  git update
+ 2411  git --help
+ 2412  macports install git
+ 2413  sudo port install git
+ 2414  git --version
+ 2415  git push -u origin master
+ 2416  cd ~/Sites/veryport
+ 2417  cd wp-content
+ 2418  mate .
+ 2419  mvim .
+ 2420  locate php.ini
+ 2421  php --version
+ 2422  cd /Applications/MAMP/conf/php5.2
+ 2423  mate php.ini
+ 2424  cd ../php5.3
+ 2425  mate php.ini
+ 2426  cd ../php5.2/
+ 2427  mate php.ini
+ 2428  git add *
+ 2429  git commit -a -m "\nconverted HTML builds in GG_tree to OO."
+ 2430  git push -u origin master
+ 2431  git commit -a -m "adding content pulling for single project."
+ 2432  git commit -a -m "finish single project functions."
+ 2433  git push -u origin master
+ 2434  git add *
+ 2435  git commit -a -m "fixed issue on homepage urls. Added some client/category returns."
+ 2436  git push -u origin master
+ 2437  git commit -a -m "pseudo 404 page added, need to come up with new solution."
+ 2438  git push -u origin master
+ 2439  cd ~/Sites/blink
+ 2440  mvim .
+ 2441  cd site\ files
+ 2442  mvim .
+ 2443  cd ../
+ 2444  cd sitefiles
+ 2445  mvim .
+ 2446  open .
+ 2447  cd ../
+ 2448  open .
+ 2449  cd wp-content/themes
+ 2450  mate .
+ 2451  ls
+ 2452  cd twentyten
+ 2453  ls
+ 2454  ls -a
+ 2455  open .
+ 2456  ls
+ 2457  mvim .
+ 2458  $VCLOJ
+ 2459  git commit -a -m "added proper redirect for 404 pages. added some category/client handling."
+ 2460  git push -u origin master
+ 2461  git commit -a -m "closed the db on the footer."
+ 2462  git push -u origin master
+ 2463  whois anyonelistentome.com
+ 2464  ls
+ 2465  mate .
+ 2466  ls
+ 2467  cd ../
+ 2468  cd ~/Sites/veryport
+ 2469  git commit -a -m "finished PHP getting project v1. Need to change returned HTML to what Alex has."
+ 2470  git push -u origin master
+ 2471  git commit -a -m "added new lines to make the HTML pretty."
+ 2472  git push -u origin master
+ 2473  git commit -a -m "fixed url/param issue. now works if the first param is a project and there is a second param."
+ 2474  git push -u origin master
+ 2475  git commit -a -m "changed it so if there is two params in a url and the first is a project with no child project it redirects to the project alone."
+ 2476  git push -u origin master
+ 2477  git commit -a -m "Added some helpful comments. removed unnecessary ones."
+ 2478  git push -u origin master
+ 2479  cd ~/Sites/babysitter
+ 2480  ls
+ 2481  cd wp-content
+ 2482  ls
+ 2483  cd themes
+ 2484  ls
+ 2485  cd sitter
+ 2486  cd ../
+ 2487  mvim sitter
+ 2488  open ../../
+ 2489  ls
+ 2490  cd ../
+ 2491  ls
+ 2492  cd ../
+ 2493  ls
+ 2494  mvim .
+ 2495  mate .
+ 2496  cd ~/Downloads
+ 2497  open .
+ 2498  cd ../
+ 2499  ls
+ 2500  ls -a
+ 2501  git add *
+ 2502  git commit -a -m "changed file to pull from to build_file.php. Added more on this project and close this project."
+ 2503  open .
+ 2504  ls
+ 2505  ls -a
+ 2506  git commit -a -m "changed close/more links for accessability issues and proper hrefs."
+ 2507  git push -u origin master
+ 2508  ls
+ 2509  cd ~/school
+ 2510  mkdir processing
+ 2511  cd processing
+ 2512  touch pong.pde
+ 2513  mkdir pong
+ 2514  mv ./pong.pde ./pong
+ 2515  ls
+ 2516  cd pong
+ 2517  mvim .
+ 2518  cd /Applications/MacVim.app/Contents/Resources/
+ 2519  ls
+ 2520  cd vim
+ 2521  ls 
+ 2522  cd runtime
+ 2523  ls
+ 2524  sudo cp ~/Downloads/processing/syntax/* ./syntax/*
+ 2525  sudo cp ~/Downloads/processing/syntax/* ./syntax
+ 2526  sudo cp ~/Downloads/processing/ftdetect/* ./ftdetect
+ 2527  sudo cp ~/Downloads/processing/ftplugin/* ./ftplugin
+ 2528  ls
+ 2529  mvim .
+ 2530  cd ~/Sites/blink
+ 2531  open .
+ 2532  cd sitefiles
+ 2533  ls
+ 2534  mvim .
+ 2535  ls
+ 2536  cd ~/Sites/veryport
+ 2537  gd
+ 2538  git commit -a -m "changed script include order."
+ 2539  git push -u origin master
+ 2540  ls
+ 2541  cd wp-content
+ 2542  mvim .
+ 2543  cd ~/projects/node
+ 2544  ls
+ 2545  locate reader
+ 2546  cd ~/projects/reader
+ 2547  node server.js -p 2323
+ 2548  mvim .
+ 2549  node server.js
+ 2550  cd ~/projects/erlyreader
+ 2551  mvim .
+ 2552  erl
+ 2553  cd ~/code-a-day/erlang-learning
+ 2554  mvim 
+ 2555  erl
+ 2556  open .
+ 2557  cd ~/school/processing
+ 2558  ls
+ 2559  cd pong
+ 2560  mvim .
+ 2561  ls
+ 2562  cd ../
+ 2563  ls
+ 2564  git add *
+ 2565  git commit -a -m "added slider."
+ 2566  git push -u origin master
+ 2567  cd ~/Sites/babysitter/wp-content/themes/sitter
+ 2568  mate .
+ 2569  cd ../../
+ 2570  ls
+ 2571  cd ../
+ 2572  mate captcha/
+ 2573  git add *
+ 2574  git commit -a -m "styling and php changes."
+ 2575  git push -u origin master
+ 2576  git commit -a -m "fixed font include"
+ 2577  git push -u origin master
+ 2578  cd ~/Sites
+ 2579  mkdir tjwp
+ 2580  cd tjwp
+ 2581  open .
+ 2582  cd wp-content/themes/twentyten
+ 2583  mvim .
+ 2584  open .
+ 2585  cd ~/mwestra
+ 2586  cd ~/sites
+ 2587  ls
+ 2588  cd mrw
+ 2589  cd wp-content
+ 2590  cd themes
+ 2591  ls
+ 2592  cd mrw
+ 2593  mate .
+ 2594  cd ~/Sites/babysitter
+ 2595  ls
+ 2596  cd wp-content/themes/sitter
+ 2597  mate .
+ 2598  cd ~/school
+ 2599  ls
+ 2600  cd ~/Sites/blink
+ 2601  mvim .
+ 2602  open .
+ 2603  cd ~/Sites/veryport/wp-content/
+ 2604  mvim .
+ 2605  whois daxor.com
+ 2606  whois daxorr.com
+ 2607  cd ~/Sites/blink
+ 2608  ls
+ 2609  cd site
+ 2610  cd sitefiles
+ 2611  mvim .
+ 2612  open .
+ 2613  cd ~/school/processing
+ 2614  ls
+ 2615  cd pong
+ 2616  ls
+ 2617  mvim pong.pde
+ 2618  cd ~/school
+ 2619  mkdir prod
+ 2620  cd prod
+ 2621  clone https://github.com/locomotivecms/engine.git
+ 2622  git clone https://github.com/locomotivecms/engine.git
+ 2623  mvim .
+ 2624  cd ~/Sites/veryport
+ 2625  cd wp-content
+ 2626  mvim .
+ 2627  mate .
+ 2628  mvim .
+ 2629  cd ../
+ 2630  git add *
+ 2631  git commit -a -m "Fixed JS, made build_file more dynamic."
+ 2632  mvim ./wp-co
+ 2633  mvim ./wp-content
+ 2634  cd ./wp-content
+ 2635  mvim .
+ 2636  cd ../
+ 2637  git commit -a -m "fixed JS by changing function placement to the slider method."
+ 2638  git push -u origin master
+ 2639  git commit -a -m "height of slider bar from 4px to 3px. Other subsequent changes."
+ 2640  git push -u origin master
+ 2641  cd ~/school/processing
+ 2642  cd pong
+ 2643  mvim .
+ 2644  cd ~/Documents/Processing
+ 2645  mkdir pong
+ 2646  touch pong.pde
+ 2647  mkdir data
+ 2648  mate .
+ 2649  cd pong
+ 2650  mate .
+ 2651  mkdir data
+ 2652  touch pong.pde
+ 2653  open .
+ 2654  cd ~/Sites/veryport
+ 2655  cd wp-content
+ 2656  mvim .
+ 2657  cd ../
+ 2658  git add *
+ 2659  git commit -a -m "rebuilt home page build. styling width change."
+ 2660  git push -u origin master
+ 2661  npm install express
+ 2662  cd wp-content
+ 2663  mvim .
+ 2664  cd ../
+ 2665  git add *
+ 2666  git commit -a -m "added all JS functionality excluded about/contact. Need to fix 'jumping' issue on slider."
+ 2667  git push -u origin master
+ 2668  git add *
+ 2669  git commit -a -m "fixed jumping issue on slider."
+ 2670  git push -u origin master
+ 2671  git commit -a -m "pulling assets in proper order"
+ 2672  git push -u origin master
+ 2673  git commit -a -m "changing projects unsets active on clients/categories."
+ 2674  git push -u origin master
+ 2675  git commit -a -m "fixed home styling."
+ 2676  git push -u origin master
+ 2677  git commit -a -m "fix wrapping issue in firefox"
+ 2678  git push -u origin master
+ 2679  git commit -a -m "added project asset length detection. reworked slider"
+ 2680  git commit -a -m "fixed js project fades so that it works when spammed."
+ 2681  git push -u origin master
+ 2682  git commit -a -m "styling changes for slide p tags."
+ 2683  git commit -a -m "changed admin panel page type order"
+ 2684  git commit -a -m "fixed select grouping"
+ 2685  git push -u origin master
+ 2686  git commit -a -m "made lines less apparent"
+ 2687  git commit -a -m "reworked client/category nav builder"
+ 2688  git push -u origin master
+ 2689  git commit -a -m "fixed small for client/category nav builder when no sub-project is selected."
+ 2690  git commit -a -m "fixed issue with pulling in wrong content when the first param is a client/category and the second isn't a project."
+ 2691  git push -u origin master
+ 2692  sudo killall finder
+ 2693  sudo killall Finder
+ 2694  sudo killall Chromium
+ 2695  sudo killall Finder
+ 2696  cd ~/school/processing
+ 2697  ls
+ 2698  cd pong
+ 2699  mvim .
+ 2700  cd ~/Documents/Processing/pong
+ 2701  mvim .
+ 2702  open .
+ 2703  cd ~/school/prod
+ 2704  ls
+ 2705  mate content_analysis.txt
+ 2706  open .
+ 2707  cd ~/Sites/veryport
+ 2708  pwd
+ 2709  /Users/Jesus/Sites/veryport
+ 2710  cd /Users/Jesus/Sites/veryport
+ 2711  ls
+ 2712  cd wp-content
+ 2713  mvim .
+ 2714  git commit -a -m "changed category/client/ind. project scope so that the proper project is always pulled."
+ 2715  git push -u origin master
+ 2716  git commit -a -m "re-altered scope so that ANY page can be on home."
+ 2717  git push -u origin master
+ 2718  git commit -a -m "fixed major issues, including: improper data retrival for 2 params, select by parent id."
+ 2719  git push -u origin master
+ 2720  git commit -a -m "\nstyling and js changes/fixes."
+ 2721  git push -u origin master
+ 2722  ipconfig
+ 2723  ifconfig
+ 2724  cd ~/Sites/jura
+ 2725  cd wp-content
+ 2726  mvim .
+ 2727  locate vimball
+ 2728  cd /Applications/MacVim.app/Contents/Resources/vim/runtime
+ 2729  sudo cp ~/Downloads/snipMate/after/*
+ 2730  mkdir after
+ 2731  sudo cp ~/Downloads/snipMate/after/* ./after/
+ 2732  sudo mv ~/Downloads/snipMate/after/* ./after/
+ 2733  sudo cp ~/Downloads/snipMate/autoload/* ./autoload/
+ 2734  sudo cp ~/Downloads/snipMate/doc/* ./doc/
+ 2735  sudo cp ~/Downloads/snipMate/ftplugin/* ./ftplugin/
+ 2736  sudo cp ~/Downloads/snipMate/plugin/* ./plugin/
+ 2737  sudo cp ~/Downloads/snipMate/snippets/* ./snippets
+ 2738  mkdir snippets
+ 2739  sudo cp ~/Downloads/snipMate/snippets/* ./snippets
+ 2740  sudo cp ~/Downloads/snipMate/syntax/* ./snippets
+ 2741  cd snippets
+ 2742  ls
+ 2743  mvim .
+ 2744  cd ~/sites
+ 2745  ls
+ 2746  cd dpagitt
+ 2747  ls
+ 2748  cd site
+ 2749  ls
+ 2750  mvim .
+ 2751  cd /Applications/MacVim.app/Contents/Resources
+ 2752  ls
+ 2753  cd vim
+ 2754  ls
+ 2755  cd runtime
+ 2756  cd ../
+ 2757  sudo vim vimrc
+ 2758  mvim .
+ 2759  cd runtime
+ 2760  cd plugin
+ 2761  ls
+ 2762  cd ../ftplugin
+ 2763  ls
+ 2764  ls ~/Downloads/snipMate
+ 2765  ls ~/Downloads/snipMate/ftplugin
+ 2766  cd ~/.vim
+ 2767  ls
+ 2768  cd ftplugin
+ 2769  ls
+ 2770  cd ../
+ 2771  cd syntax
+ 2772  ls
+ 2773  vim .
+ 2774  cd ~/Downloads
+ 2775  unzip snipMate.zip -d ~/.vim
+ 2776  cd ./.vim
+ 2777  ls
+ 2778  mvim .
+ 2779  cd ../
+ 2780  open .
+ 2781  mvim .
+ 2782  cd ~/.vim
+ 2783  cd snippets
+ 2784  ls
+ 2785  mvim html.snippets
+ 2786  cd ~/Sites/dpagitt
+ 2787  mvim .
+ 2788  touch foo.js
+ 2789  mvim foo.js
+ 2790  cd ~/projects/clojure
+ 2791  ls
+ 2792  mvim .
+ 2793  $VCLOJ
+ 2794  mvim ~/.oh-my-zsh
+ 2795  mkdir ~/.clojure
+ 2796  cd ~/.clojure
+ 2797  open .
+ 2798  history
+ 2799  cd ~/Downloads/clojure-1.2.0
+ 2800  configure
+ 2801  _configure
+ 2802  locate vimclojure
+ 2803  locate vimclojure.jar
+ 2804  java -cp $VCLOJ
+ 2805  source ~/.oh-my-zsh
+ 2806  java -cp $VCLOJ
+ 2807  echo $VCLOJ
+ 2808  ls /Users/Jesus/programming-clojure/lib
+ 2809  echo $VCLOJ
+ 2810  java -cp $VCLOJ
+ 2811  cd ../
+ 2812  cd /Applications/MacVim.app/Contents/Resources/vim/
+ 2813  sudo vim vimrc
+ 2814  cd ~/Downloads/vimclojure-nailgun-client
+ 2815  make
+ 2816  sudo vim vimrc
+ 2817  open .
+ 2818  cd ~/projects/clojure
+ 2819  mvim hailstorm.clj
+ 2820  java -c $VCLOJ
+ 2821  java $VCLOJ
+ 2822  java -cp $VCLOJ
+ 2823  java -cp -jar $VCLOJ
+ 2824  source ~/.oh-my-zsh
+ 2825  echo $VCLOJ
+ 2826  cd ~/projects/clojure
+ 2827  ls
+ 2828  echo $VCLOJ
+ 2829  java -cp $VCLOJ
+ 2830  java -cp -jar $VCLOJ
+ 2831  cd ~/.clojure
+ 2832  java -cp $VCLOJ
+ 2833  echo $VCLOJ
+ 2834  ls v
+ 2835  ls /Users/Jesus/.clojure/lib/
+ 2836  ls /Users/Jesus/.clojure/build
+ 2837  java -cp /Users/Jesus/.clojure/lib/clojure.jar /Users/Jesus/.clojure/lib/clojure-contrib.jar
+ 2838  java -cp /Users/Jesus/.clojure/lib/clojure.jar /Users/Jesus/\.clojure/lib/clojure-contrib.jar
+ 2839  java -cp /Users/Jesus/\.clojure/lib/clojure.jar /Users/Jesus/\.clojure/lib/clojure-contrib.jar
+ 2840  java -cp /Users/Jesus/clojure/lib/clojure.jar /Users/Jesus/clojure/lib/clojure-contrib.jar
+ 2841  java -cp /Users/Jesus/.clojure/lib/clojure.jar /Users/Jesus/.clojure/lib/clojure-contrib.jar
+ 2842  java -cp /Users/Jesus/.clojure/lib/clojure.jar
+ 2843  java -cp -jar /Users/Jesus/.clojure/lib/clojure.jar
+ 2844  java -cp /Users/Jesus/.clojure/lib/clojure.jar
+ 2845  java -cp /Users/Jesus/.clojure/lib/clojure.jar clojure.main
+ 2846  cd ~/Downloads/clojure-1.2.0
+ 2847  ant
+ 2848  cd ~/Downloads
+ 2849  tar -xzvf limp-0.3.4.tar.gz ~/.vim
+ 2850  tar -xzvf
+ 2851  tar -xzvf limp-0.3.4.tar.gz
+ 2852  tar -xzvf limp-0.3.4.tar.gz ~/.vim/
+ 2853  tar -xzvf limp-0.3.4.tar.gz ~/.vim
+ 2854  tar -xzv limp-0.3.4.tar.gz ~/.vim/
+ 2855  tar -xzwf limp-0.3.4.tar.gz ~/.vim/
+ 2856  tar -xzf limp-0.3.4.tar.gz ~/.vim/
+ 2857  tar -xzvf ./limp-0.3.4.tar.gz ~/.vim
+ 2858  cd ~/Sites
+ 2859  mvim .
+ 2860  tar -xzvf -C ~/.vim ./limp-0.3.4.tar.gz
+ 2861  tar -C ~/.vim -xzvf ./limp-0.3.4.tar.gz
+ 2862  cd ~/.vim
+ 2863  ls
+ 2864  mvim foo.lisp
+ 2865  cd ~/projects
+ 2866  mkdir lisp
+ 2867  cd lisp
+ 2868  ls
+ 2869  cd ~/.vim
+ 2870  ls
+ 2871  cd ~
+ 2872  ls
+ 2873  sudo mdutil -a -i off
+ 2874  sudo mdutil -a -i on
+ 2875  cd /System/Library/
+ 2876  open .
+ 2877  cd ~/projects
+ 2878  cd lisp
+ 2879  ls
+ 2880  touch foo.lisp
+ 2881  mvim foo.lisp
+ 2882  cd ~/.vim
+ 2883  wget "http://nekthuth.com/releases/nekthuth-vim_latest.tar.gz"
+ 2884  tar zxf nekthuth-vim_latest.tar.gz
+ 2885  sudo tar zxf nekthuth-vim_latest.tar.gz
+ 2886  cd ~/Downloads/
+ 2887  bzip2 -cd sbcl-1.0.47-source.tar.bz2 | tar xvf -
+ 2888  cd sbcl-1.0.47
+ 2889  sh install.sh
+ 2890  sudo sh install.sh
+ 2891  mvim install.sh
+ 2892  INSTALL_ROOT=/usr/local/bin sh install.sh
+ 2893  sbcl
+ 2894  ls
+ 2895  cd output
+ 2896  ls
+ 2897  ls -a
+ 2898  cd ../
+ 2899  locate prefix.def
+ 2900  ls -a -R
+ 2901  cd ../
+ 2902  tar -xzvf sbcl-1.0.47-x86-darwin-binary.tar.bz2
+ 2903  bzip2 -cd sbcl-1.0.47-x86-darwin-binary.tar.bz2| tar xvf -
+ 2904  cd sbcl-1.0.47-x86-darwin
+ 2905  ls
+ 2906  ls -a -R
+ 2907  sh install.sh
+ 2908  sudo sh install.sh
+ 2909  sbl
+ 2910  sbcl
+ 2911  mkdir ~/.lisp
+ 2912  cd ~/.lisp
+ 2913  sudo mv ~/HyperSpec-7-0 ./
+ 2914  ls
+ 2915  ls -a -R
+ 2916  cd ~/.vim
+ 2917  ls
+ 2918  ls -a
+ 2919  mate .netrwhist
+ 2920  locate nekthuthrc.lisp
+ 2921  ls
+ 2922  ls -a
+ 2923  locate nekthuthrc
+ 2924  ls -a -R
+ 2925  sbcl
+ 2926  cd ~/projects/lisp
+ 2927  mvim .
+ 2928  locate sbcl
+ 2929  cd /usr/bin/sbcl
+ 2930  mkdir /usr/bin/sbcl
+ 2931  sudo mkdir /usr/bin/sbcl
+ 2932  sudo ln /opt/local/var/macports/sources/rsync.macports.org/release/ports/lang/sbcl/* /usr/bin/sbcl/
+ 2933  sudo ln /opt/local/var/macports/sources/rsync.macports.org/release/ports/lang/sbcl/ /usr/bin/sbcl/
+ 2934  cd /Applications/MacVim.app/Contents/Resources/vim/
+ 2935  sudo vim vimrc
+ 2936  sudo mvim vimrc
+ 2937  mvim .
+ 2938  sudo mvim vimrc
+ 2939  mvim .
+ 2940  cd ~/
+ 2941  ls -a
+ 2942  touch .nekthuthrc.lisp
+ 2943  mvim .nekthuthrc.lisp
+ 2944  open .
+ 2945  cd .lisp
+ 2946  ls
+ 2947  cd ~/
+ 2948  mate .nekthuthrc.lisp
+ 2949  sbcl
+ 2950  mvim .
+ 2951  locate .asd
+ 2952  cd ~/Sites/babysitter/wp-content/themes/sitter
+ 2953  mvim .
+ 2954  cd /Applications/MacVim.app/Contents/Resources/vim
+ 2955  ls
+ 2956  sudo mvim vimrc
+ 2957  cd ~/.vim/ftplugin
+ 2958  ls
+ 2959  mv lisp ~/
+ 2960  mvim .
+ 2961  open .
+ 2962  mvim .
+ 2963  open .
+ 2964  cd ../
+ 2965  ls -a
+ 2966  mvim .
+ 2967  cd /Applications/MacVim.app/Contents/Resources/vim
+ 2968  sudo mvim .
+ 2969  mvim .
+ 2970  cd runtime
+ 2971  ls
+ 2972  cd ftplugin
+ 2973  ls
+ 2974  cd lisp
+ 2975  ls
+ 2976  cd ..
+ 2977  sudo rm -rf lisp
+ 2978  cd ~/Downloads
+ 2979  history
+ 2980  unzip vim-fuzzyfinder.zip -d ~/.vim
+ 2981  ls
+ 2982  cd plugin
+ 2983  ls
+ 2984  mvim .
+ 2985  cd ../
+ 2986  locate lisp
+ 2987  ls
+ 2988  cd plugin
+ 2989  ls
+ 2990  mate netrwPlugin.vim
+ 2991  cd ~/.vim
+ 2992  ls -a -R
+ 2993  open .
+ 2994  mvim .
+ 2995  ls
+ 2996  cd ../
+ 2997  ls
+ 2998  cd lang
+ 2999  ls
+ 3000  cd ../
+ 3001  ls
+ 3002  cd print
+ 3003  ls
+ 3004  cd ../
+ 3005  ls
+ 3006  cd ftplugin
+ 3007  ls
+ 3008  sudo rm -rf lisp.vim
+ 3009  mvim .
+ 3010  ls
+ 3011  locate lisp.vim
+ 3012  ls
+ 3013  ls -a
+ 3014  mate .netrwhist
+ 3015  rm -rf .netrwhist
+ 3016  ls -a
+ 3017  mvim ruby/fuzzy_file_finder.rb
+ 3018  ls
+ 3019  cd plugin
+ 3020  ls
+ 3021  sudo rm -rf snipMate.vim
+ 3022  ls
+ 3023  mvim ruby/fuzzy_file_finder.rb
+ 3024  cd ..
+ 3025  ls
+ 3026  ls -a /after
+ 3027  ls -a after
+ 3028  cd after/plugin
+ 3029  ls
+ 3030  cd ../
+ 3031  sudo rm -rf after
+ 3032  cd ..
+ 3033  ls
+ 3034  cd ,,
+ 3035  cd ..
+ 3036  sudo mvim vimrc
+ 3037  cd ~/Downloads
+ 3038  ls
+ 3039  unzip snipMate.zip -d ~/.vim
+ 3040  y
+ 3041  locate nekthuth
+ 3042  ls
+ 3043  touch foo.html
+ 3044  mvim foo.html
+ 3045  cd ~/Downloads
+ 3046  ls
+ 3047  unzip vim-fuzzyfinder.zip -d ~/.vim
+ 3048  ls
+ 3049  mvim foo.html
+ 3050  locate lisp.vim
+ 3051  cd /Applications/MacVim.app/Contents/Resources/vim/runtime/ftplugin
+ 3052  ls
+ 3053  sudo rm -rf lisp
+ 3054  locate lisp.vim
+ 3055  ls
+ 3056  mvim nsis.vim
+ 3057  mvim foo.html
+ 3058  locate UpdateMruList
+ 3059  mate ~/.oh-my-zsh
+ 3060  cd ~/.vim
+ 3061  ls
+ 3062  open .
+ 3063  locate lisp.vim
+ 3064  /Applications/MacVim.app/Contents/Resources/vim/runtime
+ 3065  cd ftplugin
+ 3066  sudo rm -rf lisp/*
+ 3067  sudo rm -rf lisp
+ 3068  ls
+ 3069  sudo rm -rf lisp.vim
+ 3070  ls
+ 3071  ls lisp
+ 3072  locate lisp
+ 3073  locate lisp.vim
+ 3074  cd /Applications/MacVim.app/Contents/Resources/vim/runtime/ftplugin/lisp/
+ 3075  cd /usr/share/vim/vim72
+ 3076  sudo rm -rf ftplugin/lisp.vim
+ 3077  sudo rm -rf indent/lisp.vim
+ 3078  sudo rm -rf syntax/lisp.vim
+ 3079  cd ftplugin
+ 3080  ls
+ 3081  sudo rm -rf lisp
+ 3082  ls
+ 3083  locate lisp.vim
+ 3084  cd /opt/local/var/macports/software
+ 3085  ls
+ 3086  sudo rm -rf clisp
+ 3087  cd ~\AppData\Local\Temp
+ 3088  locate AppData
+ 3089  cd /Applications/MacVim.app/Contents/Resources/vim/runtime
+ 3090  ls
+ 3091  mate ftplugin.vim
+ 3092  open .
+ 3093  locate lisp.vim
+ 3094  sbcl
+ 3095  locate hyperspec
+ 3096  cd /Users/Jesus/vilisp/
+ 3097  sudo rm -rf VIlisp.vim
+ 3098  sudo rm -rf VIlisp-hyperspec.pl
+ 3099  cd ~
+ 3100  mvim foo.html
+ 3101  ls
+ 3102  cd ~/.vim
+ 3103  cd plugin
+ 3104  ls
+ 3105  cd ../
+ 3106  ls -a -R
+ 3107  cd plugin
+ 3108  open .
+ 3109  ls
+ 3110  vim fuf.vim
+ 3111  locate peepcode
+ 3112  cd ~/learning/peepcode
+ 3113  ls
+ 3114  open .
+ 3115  cd ~/.vim
+ 3116  wget "http://www.vim.org/scripts/download_script.php?src_id=10718" -O fuzzy.zip
+ 3117  unzip fuzzy.zip -d .
+ 3118  sudo gem install fuzzy_file_finder -v=1.0.4
+ 3119  gem unpack fuzzy_file_finder
+ 3120  mkdir ruby
+ 3121  cd ruby
+ 3122  ls
+ 3123  sudo rm -rf .
+ 3124  ls
+ 3125  sudo rm -rf ./
+ 3126  ls
+ 3127  cd ../
+ 3128  cp fuzzy_file_finder-1.0.4/lib/fuzzy_file_finder.rb ruby/
+ 3129  cd ../plugin
+ 3130  ls
+ 3131  cd plugin
+ 3132  ls
+ 3133  wget http://github.com/airblade/fuzzyfinder_textmate/raw/master/fuzzyfinder_textmate.vim
+ 3134  wget http://github.com/airblade/fuzzyfinder_textmate/raw/master/fuzzyfinder_textmate.vim --no-check-certificate
+ 3135  ls
+ 3136  vim l9.vim
+ 3137  cd ~
+ 3138  vim ~/foo.html
+ 3139  mvim foo.html
+ 3140  ls
+ 3141  vim l9.vim
+ 3142  cd ~/.vim
+ 3143  open .
+ 3144  vim foo.html
+ 3145  cd ~/.vim
+ 3146  cd plugin
+ 3147  mate .
+ 3148  cd ~
+ 3149  vim foo.html
+ 3150  mvim .
+ 3151  mvim foo.html
+ 3152  cd ~/Sites/babysitter
+ 3153  ls
+ 3154  cd wp-content
+ 3155  cd themes
+ 3156  cd sitter
+ 3157  ls
+ 3158  mvim .
+ 3159  vim 404.php
+ 3160  vim foo.php
+ 3161  cd ~/.vim
+ 3162  ls
+ 3163  cd snippets
+ 3164  ls
+ 3165  mvim html.snippets
+ 3166  cd ~/Sites/babysitter/wp-content/themes/sitter
+ 3167  mvim .
+ 3168  open .
+ 3169  cd ~/sites
+ 3170  open .
+ 3171  cd ~/projects
+ 3172  ls
+ 3173  ls -a -R
+ 3174  ls
+ 3175  cd ~/school/
+ 3176  ls
+ 3177  cd script
+ 3178  ls
+ 3179  cd node
+ 3180  ls
+ 3181  cd ../
+ 3182  cd node_chat
+ 3183  ls
+ 3184  cd ../
+ 3185  ls
+ 3186  cd socode
+ 3187  ls
+ 3188  mvim .
+ 3189  locate yaws
+ 3190  ls
+ 3191  cd projects
+ 3192  ls
+ 3193  cd erlang
+ 3194  ls
+ 3195  mkdir erlychatter
+ 3196  cd erlychatter
+ 3197  echo $HOME
+ 3198  cd ~/Downloads/
+ 3199  sudo mv yaws-1.89.tar.gz /usr/local/src
+ 3200  cd /usr/local/src
+ 3201  tar xfz yaws-1.89.tar.gz
+ 3202  cd yaws-1.89
+ 3203  ./configure && make
+ 3204  sudo make install
+ 3205  make local_install
+ 3206  cd bin
+ 3207  ls
+ 3208  ls -a
+ 3209  ls -a -R
+ 3210  mvim yaws
+ 3211  cd ~
+ 3212  mvim yaws.conf
+ 3213  cd erlang
+ 3214  cd yaws
+ 3215  ls
+ 3216  cd www
+ 3217  ~/bin/yaws -i
+ 3218  mkdir ~/test
+ 3219  mkdir ~/test/logs
+ 3220  cd ~/
+ 3221  mvim yaws.conf
+ 3222  yaws -D --heart
+ 3223  yaws -S
+ 3224  yaws -h
+ 3225  max_num_cached_bytes = 1000000
+ 3226  ~/bin/yaws -i
+ 3227  cd test
+ 3228  ls
+ 3229  ls -a -R
+ 3230  ls -a
+ 3231  sudo rm -rf php
+ 3232  sudo rm -rf c++
+ 3233  ls
+ 3234  <html>
+ 3235  <h1> Example 1 </h1>
+ 3236  <erl>
+ 3237  out(A) ->
+ 3238  Headers = A#arg.headers,
+ 3239  ls
+ 3240  touch index.yaws
+ 3241  mvim index.yaws
+ 3242  ls
+ 3243  cd ~/.vim
+ 3244  ls
+ 3245  cd snippets
+ 3246  ls
+ 3247  touch erl.snippets
+ 3248  mvim .
+ 3249  mvim index.yaws
+ 3250  ls
+ 3251  mvim snippet.snippets
+ 3252  mvim index.yaws
+ 3253  ls
+ 3254  mkdir css js
+ 3255  touch css/style.css css/reset.css js/jquery.js js/app.js
+ 3256  quit
+ 3257  q.
+ 3258  cd ~/Sites/babysitter/wp-content/themes/sitter
+ 3259  mvim .
+ 3260  mate .
+ 3261  cd ~/Sites/murg/wp-content/themes/murgitroid
+ 3262  mate .
+ 3263  ~/bin/yaws -i
+ 3264  cd ~/Sites/jura
+ 3265  ls
+ 3266  cd wp-
+ 3267  cd wp-content
+ 3268  ls
+ 3269  mvim .
+ 3270  ipconfig
+ 3271  ifconfig
+ 3272  cd ~/.vim/snippets
+ 3273  mate .
+ 3274  cd ~/sites/jura
+ 3275  mvim .
+ 3276  cd wp-content
+ 3277  mvim .
+ 3278  cd ~/school/processing
+ 3279  ls
+ 3280  mkdir push
+ 3281  cd push
+ 3282  touch push.pde
+ 3283  mvim .
+ 3284  cd ~/Sites/jura/wp-content
+ 3285  open .
+ 3286  mvim .
+ 3287  npm update
+ 3288  php -v
+ 3289  php6 -v
+ 3290  sudo port install emacs
+ 3291  locate emacs
+ 3292  cd /usr/ema
+ 3293  cd /usr/share/emacs
+ 3294  open .
+ 3295  locate emacs
+ 3296  cd /opt/local/var/macports/software/emacs
+ 3297  open .
+ 3298  emacs .
+ 3299  ls
+ 3300  cd sites
+ 3301  ls
+ 3302  cd fab
+ 3303  ls
+ 3304  cd ../
+ 3305  cd pastie
+ 3306  ls
+ 3307  cd ../
+ 3308  cd xbox
+ 3309  ls
+ 3310  cd ../glasser
+ 3311  ls
+ 3312  emacs specs.txt
+ 3313  ls
+ 3314  locate .emacs
+ 3315  locate addpm.exe
+ 3316  locate init.el
+ 3317  locate .emacs.d
+ 3318  emacs specs.txt
+ 3319  locate vim emacs
+ 3320  locate vim-mode
+ 3321  locate vim/ emacs
+ 3322  touch ~/.emacs
+ 3323  mate ~/.emacs
+ 3324  mkdir ~/.emacs
+ 3325  mkdir ~/.emacs-files
+ 3326  cd ~/.emacs-files
+ 3327  unzip ~/Downloads/lyro-vim-mode-20044c893d53.zip
+ 3328  ls
+ 3329  open .
+ 3330  mate ~/.emacs
+ 3331  ls -a -R
+ 3332  ls
+ 3333  cd ~/
+ 3334  ls
+ 3335  cd sites
+ 3336  ls
+ 3337  cd glasser
+ 3338  ls
+ 3339  emacs specs.txt
+ 3340  emacs -w specs.txt
+ 3341  emacs -nw specs.txt
+ 3342  emacs -d specs.txt
+ 3343  fg %1
+ 3344  cd ~/Sites/glasser
+ 3345  emacs specs.txt
+ 3346  fg %1
+ 3347  cd ~/Downloads
+ 3348  tar xzf emacs-23.3.tar.gz
+ 3349  locate /bin/add
+ 3350  locate addpm
+ 3351  emacs -v
+ 3352  ls
+ 3353  mate index.html
+ 3354  emacs index.html
+ 3355  mate ~/.emacs
+ 3356  emacs index.html
+ 3357  cd ~/Sites/babysitter/wp-content/themes/sitter
+ 3358  mvim .
+ 3359  open .
+ 3360  ls
+ 3361  cd ~/
+ 3362  ls
+ 3363  emacs foo.html
+ 3364  cd ~/
+ 3365  touch foo.lisp
+ 3366  emacs foo.lisp
+ 3367  mate ~/.emacs
+ 3368  emacs foo.lisp
+ 3369  cd ~/Downloads
+ 3370  ls
+ 3371  ls -a .lisp
+ 3372  locate .lisp
+ 3373  locate ~/Downloads .lisp
+ 3374  touch foo.lisp
+ 3375  emacs foo.lisp
+ 3376  touch ~/.viper || mate ~/.viper
+ 3377  touch ~/.viper | mate ~/.viper
+ 3378  emacs foo.lisp
+ 3379  cd ~/Downloads
+ 3380  emacs foo.lisp
+ 3381  cd ~/Downloads/
+ 3382  emacs foo.lisp
+ 3383  cd ~/Downloads
+ 3384  emacs
+ 3385  cd ~/Downloads
+ 3386  emacs foo.lisp
+ 3387  emacs
+ 3388  pwd
+ 3389  cd ~/Sites/babysitter/wp-content
+ 3390  l
+ 3391  ls
+ 3392  cd themes
+ 3393  open .
+ 3394  cd ~/Downloads
+ 3395  emacs foo.lisp
+ 3396  cd ~/projects
+ 3397  mkdir static_gg_1
+ 3398  cd static_gg_1
+ 3399  touch index.html
+ 3400  mkdir js css
+ 3401  touch js/jquery.js js/app.js css/style.css css/reset.css
+ 3402  mvim .
+ 3403  cd ~/.vim
+ 3404  ls
+ 3405  mate snippets
+ 3406  mvim .
+ 3407  open .
+ 3408  mvim .
+ 3409  open .
+ 3410  w
+ 3411  cd ~/Sites/babysitter/wp-content/themes
+ 3412  ls
+ 3413  cd sitter
+ 3414  mvim .
+ 3415  cd ../..
+ 3416  ls
+ 3417  cd ../
+ 3418  ls
+ 3419  open .
+ 3420  cd wp-content/themes
+ 3421  cd sitter
+ 3422  open .
+ 3423  locate file.ss
+ 3424  locate .ss
+ 3425  locate racket
+ 3426  cd /Applications/Racket\ v5.0.2
+ 3427  ls
+ 3428  ls -a -R
+ 3429  open .
+ 3430  grep "draw" .
+ 3431  grep "draw" *
+ 3432  grep "draw" *.ss
+ 3433  locate draw.rkt
+ 3434  cd ~/projects/grapher/
+ 3435  ls
+ 3436  cd ~/projects
+ 3437  ls
+ 3438  cd grapher
+ 3439  ls
+ 3440  touch image-modify.rb
+ 3441  mvim image-modify.rb
+ 3442  irb
+ 3443  cd ~/projects/grapher
+ 3444  irb
+ 3445  cd ~/school/int.authoring
+ 3446  ls
+ 3447  cd dailycake
+ 3448  rails server -p 2323
+ 3449  irb
+ 3450  open .
+ 3451  irb
+ 3452  rmagick version
+ 3453  rmagick -version
+ 3454  require 'rubygems'
+ 3455  require 'rmagick'
+ 3456  width = 300
+ 3457  height = 300
+ 3458  data = Array.new(width) do
+ 3459  =begin
+ 3460  img = Magick::Image.new(width, height)
+ 3461  data.each_with_index do |row, row_index|\n  row.each_with_index do |item, column_index|\n    #puts "setting #{row_index}/#{column_index} to #{item}"
+ 3462  img.write('demo.bmp')
+ 3463  irb
+ 3464  require 'rubygems'
+ 3465  require 'rmagick'
+ 3466  irb
+ 3467  require 'rubygems'
+ 3468  require 'rmagick'
+ 3469  width = 300
+ 3470  height = 300
+ 3471  data = Array.new(width) do
+ 3472  =begin
+ 3473  img = Magick::Image.new(width, height)
+ 3474  data.each_with_index do |row, row_index|\n  row.each_with_index do |item, column_index|\n    #puts "setting #{row_index}/#{column_index} to #{item}"
+ 3475  img.write('demo.bmp')
+ 3476  data.each do |d|\n  puts d << '\n'\nend\n=end\n\ninclude Magick\ncat = ImageList.new("foo.jpg")
+ 3477  irb
+ 3478  cd ~/projects/grapher/
+ 3479  pwd
+ 3480  ls
+ 3481  irb
+ 3482  open .
+ 3483  cd ~/projects/grapher
+ 3484  ls
+ 3485  irb image-modify.rb
+ 3486  ruby -v
+ 3487  locate ruby
+ 3488  irb image-modify.rb
+ 3489  cd ~/Sites/babysitter/wp-content/themes/sitter
+ 3490  mvim .
+ 3491  open .
+ 3492  mvim .
+ 3493  node -v
+ 3494  cd ~/.vim
+ 3495  ls
+ 3496  ls -a
+ 3497  cd ~/Sites/jura/wp-content/themes
+ 3498  ls
+ 3499  cd jura
+ 3500  mvim .
+ 3501  cd /Applications/MacVim.app/Contents/Resources/vim
+ 3502  ls
+ 3503  sudo mvim vimrc
+ 3504  mvim .
+ 3505  mvim 404.php
+ 3506  cd ~/Sites/jura/wp-content/themes/jura
+ 3507  mvim .
+ 3508  open .
+ 3509  cd ~/Sites/babysitter/wp-content
+ 3510  cd themes
+ 3511  cd sitter
+ 3512  mvim .
+ 3513  open .
+ 3514  mvim .
+ 3515  cd ~/projects
+ 3516  mkdir gg-chat
+ 3517  cd gg-chat
+ 3518  git init
+ 3519  ls
+ 3520  touch server.js
+ 3521  mvim .
+ 3522  node server.js
+ 3523  mvim .
+ 3524  node server.js
+ 3525  telnet localhost 2323
+ 3526  telnet brad.com 2323
+ 3527  node server.js
+ 3528  telnet brad.com 2323
+ 3529  node server.js
+ 3530  telnet brad.com 2323
+ 3531  node server.js
+ 3532  telnet brad.com 2323
+ 3533  node server.js
+ 3534  telnet brad.com 2323
+ 3535  node server.js
+ 3536  telnet brad.com 2323
+ 3537  cd ~/projects/gg-chat
+ 3538  ls
+ 3539  node server.js
+ 3540  telnet brad.com 2323
+ 3541  node server.js
+ 3542  telnet brad.com 2323
+ 3543  node server.js
+ 3544  telnet brad.com 2323
+ 3545  node server.js
+ 3546  telnet brad.com 2323
+ 3547  node server.js
+ 3548  telnet brad.com 2323
+ 3549  node server.js
+ 3550  telnet brad.com 2323
+ 3551  node server.js
+ 3552  telnet brad.com 2323
+ 3553  node server.js
+ 3554  telnet brad.com 2323
+ 3555  node server.js
+ 3556  telnet brad.com 2323
+ 3557  node server.js
+ 3558  telnet brad.com 2323
+ 3559  node server.js
+ 3560  telnet brad.com 2323
+ 3561  node server.js
+ 3562  telnet brad.com 2323
+ 3563  Person
+ 3564  telnet brad.com 2323
+ 3565  node server.js
+ 3566  telnet brad.com 2323
+ 3567  node server.js
+ 3568  telnet everywhere.local 2323
+ 3569  telnet localhost 2323
+ 3570  telnet 127.0.01 2323
+ 3571  telnet 127.0.0.1 2323
+ 3572  node server.js
+ 3573  telnet 127.0.0.1 2323
+ 3574  node server.js
+ 3575  telnet everywhere.local 2323
+ 3576  node server.js
+ 3577  cd ~/school/int.authoring/dailycake
+ 3578  ls
+ 3579  rails server -p 3000
+ 3580  telnet everywhere.local 2323
+ 3581  telnet brad.com 2323
+ 3582  cd ~/ruby
+ 3583  mkdir ruby
+ 3584  cd ruby
+ 3585  ls
+ 3586  touch test.rb
+ 3587  mvim test.rb
+ 3588  mkdir pictures
+ 3589  open pic
+ 3590  open pictures
+ 3591  irb test.rb
+ 3592  irb
+ 3593  ruby test.rb
+ 3594  pwd
+ 3595  ruby test.rb
+ 3596  ruby -v
+ 3597  cd ~/projects
+ 3598  ls
+ 3599  ls -a *.rb
+ 3600  grep *.rb
+ 3601  grep "" *.rb
+ 3602  cd ~/school
+ 3603  ls
+ 3604  ls -a -R
+ 3605  ls
+ 3606  cd pro
+ 3607  cd processing
+ 3608  ls
+ 3609  cd push
+ 3610  ls
+ 3611  cd ~
+ 3612  ls
+ 3613  cd projects
+ 3614  ls
+ 3615  ls -a -R
+ 3616  locate test.rb
+ 3617  locate /Users/Jesus/test.rb
+ 3618  ls
+ 3619  cd test
+ 3620  ls
+ 3621  cd inspire
+ 3622  ls
+ 3623  cd ~
+ 3624  ls
+ 3625  cd school
+ 3626  ls
+ 3627  cd prod
+ 3628  ls
+ 3629  cd ../
+ 3630  history
+ 3631  cd ~/projects/grapher
+ 3632  ls
+ 3633  mvim image-modify.rb
+ 3634  ruby image-modify.rb
+ 3635  irb image-modify.rb
+ 3636  ruby image-modify.rb
+ 3637  cd /Users/Jesus/projects/grapher
+ 3638  ls
+ 3639  open .
+ 3640  ruby image-modify.rb
+ 3641  cd ~/Sites/jura/wp-content/themes/jura
+ 3642  mvim .
+ 3643  cd ../
+ 3644  open .
+ 3645  ls
+ 3646  pico index.php
+ 3647  cd ~/.oh-my-zsh
+ 3648  ls
+ 3649  cd custom
+ 3650  ls
+ 3651  mate oldrc.zsh
+ 3652  mate ~/.oh-my-zsh/custom
+ 3653  irb
+ 3654  ls
+ 3655  cd ~/projects/grapher
+ 3656  ls
+ 3657  touch timer.rb
+ 3658  mvim .
+ 3659  ruby image-modify.rb
+ 3660  ruby timer.rb
+ 3661  ruby image-modify.rb
+ 3662  [A
+ 3663  ruby image-modify.rb
+ 3664  open .
+ 3665  ruby image-modify.rb
+ 3666  rm -f ~/Library/LaunchAgents/com.plexapp.mediaserver.plist
+ 3667  rm -f /Applications/Plex.app/Contents/Resources/Plex/com.plexapp.mediaserver.plist
+ 3668  cd Sites/jura/wp-content/themes/jura
+ 3669  mvim .
+ 3670  open .
+ 3671  cd projects
+ 3672  ls
+ 3673  rails new progress
+ 3674  rails --version
+ 3675  cd progress
+ 3676  git init
+ 3677  git add *
+ 3678  git add * -f
+ 3679  git remote add origin git@github.com:bradleyolson/progress.git
+ 3680  git commit -a -m "initialized project."
+ 3681  git push -u origin master
+ 3682  cd ~/projects/grapher
+ 3683  ls
+ 3684  mvim .
+ 3685* rails generate controller Progress index short graph day
+ 3686* rails server -p 2323
+ 3687  cd ../progress
+ 3688  resources
+ 3689  history
+ 3690  locate resources
+ 3691  history | tee foo.txt
+ 3692  history&1 | tee foo.txt
+ 3693  ls
+ 3694  open .
